@@ -30,10 +30,6 @@ on:
           - "false"
           - "true"
 
-  # Trigger when user stars a new repo
-  watch:
-    types: [started]
-
 permissions:
   contents: write
   issues: write
@@ -41,11 +37,6 @@ permissions:
 jobs:
   organize-stars:
     runs-on: ubuntu-latest
-
-    # Only run 'watch' event if triggered by the repo owner
-    if: >-
-      github.event_name != 'watch' ||
-      github.actor == github.repository_owner
 
     steps:
       - name: Checkout repository

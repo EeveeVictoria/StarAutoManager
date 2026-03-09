@@ -54,7 +54,6 @@ The LLM receives your existing lists as context:
 
 ### Automation
 - ⏰ **Scheduled runs** — configurable cron via GitHub Actions
-- ⭐ **Star trigger** — auto-categorize when you star a new repo
 - 🖱️ **Manual trigger** — run on demand with custom parameters
 - 📊 **GitHub Issue reports** — detailed run reports as Issues
 - 📄 **STARS.md generation** — beautiful categorized star list in your repo
@@ -111,7 +110,6 @@ categorization:
 
 - **Automatic**: Runs every Monday at 09:00 UTC (configurable in workflow)
 - **Manual**: Go to **Actions → StarAutoManager → Run workflow**
-- **On star**: Triggers when you star a new repo
 
 ## Manual Trigger Options
 

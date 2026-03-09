@@ -54,7 +54,6 @@ LLM 以你已有的列表为上下文：
 
 ### 自动化
 - ⏰ **定时运行** — 通过 GitHub Actions cron 配置
-- ⭐ **Star 触发** — Star 新仓库时自动分类
 - 🖱️ **手动触发** — 按需运行，支持自定义参数
 - 📊 **GitHub Issue 报告** — 每次运行生成详细报告
 - 📄 **STARS.md 生成** — 漂亮的分类 Star 列表
@@ -105,7 +104,6 @@ categorization:
 
 - **自动运行**：每周一 09:00 UTC（可在 workflow 中修改）
 - **手动运行**：Actions → StarAutoManager → Run workflow
-- **Star 触发**：当你 Star 新仓库时自动触发
 
 ## 手动触发选项
 
