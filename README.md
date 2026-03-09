@@ -6,6 +6,8 @@
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+**[中文说明](README.ZH.md)**
+
 ## How It Works
 
 StarAutoManager doesn't just randomly categorize your stars — it **learns from your existing Star Lists** first, then applies the same categorization philosophy to uncategorized repos.
@@ -219,7 +221,8 @@ StarAutoManager/
 ├── config.example.en.yaml   # English config template
 ├── config.example.zh.yaml   # Chinese config template
 ├── requirements.txt         # Python dependencies
-└── README.md
+├── README.md                # English
+└── README.ZH.md             # 中文
 ```
 
 ## Supported LLM Providers
@@ -244,58 +247,3 @@ Any OpenAI-compatible API endpoint works:
 ## License
 
 MIT
-
----
-
-# ⭐ StarAutoManager （中文说明）
-
-> 使用 LLM 智能分析你的 Star 分类习惯，自动整理未分类的 GitHub Star。
-
-## 工作原理
-
-StarAutoManager 不是随机分类，而是**先学习你已有的 Star Lists 分类风格**，再用相同的逻辑对未分类仓库进行归类。
-
-### 核心流程
-
-1. 获取你已有的 Star Lists（作为训练数据）
-2. 获取所有已 Star 的仓库
-3. 找出未分类的仓库
-4. LLM 分析你的分类模式（粒度、命名习惯、分类维度）
-5. 按照你的风格对未分类仓库进行分类
-6. 通过 GitHub GraphQL API 直接应用修改
-7. 生成报告（GitHub Issue + STARS.md）
-
-## 快速开始
-
-### 1. Fork 本仓库
-
-### 2. 配置 Secrets
-
-在 **Settings → Secrets and variables → Actions** 中添加：
-
-| Secret | 必需 | 说明 |
-|--------|------|------|
-| `STAR_GITHUB_TOKEN` | ✅ | GitHub PAT，需要 `repo`、`read:user`、`user` 权限 |
-| `LLM_BASE_URL` | ✅ | OpenAI 兼容的 API 地址 |
-| `LLM_API_KEY` | ✅ | LLM API 密钥 |
-| `LLM_MODEL` | 可选 | 模型名称 — 设置后覆盖配置文件中的 `model` |
-
-### 3. 自定义配置（可选）
-
-复制示例配置文件并编辑：`cp config.example.zh.yaml config.yaml`，支持中文提示语言（`language: "zh"`）。
-
-### 4. 运行
-
-- **自动运行**：每周一 09:00 UTC
-- **手动运行**：Actions → StarAutoManager → Run workflow
-- **Star 触发**：当你 Star 新仓库时自动触发
-
-## 功能特点
-
-- 🧠 **学习后分类** — 先分析你的分类习惯，再做决定
-- 🔄 **增量处理** — 缓存机制避免重复分类
-- 🎯 **置信度评分** — 每个分类结果标注 high/medium/low 置信度
-- 📖 **二次分析** — 对低置信度仓库获取 README 重新评估
-- 🗑️ **过期检测** — 标记已归档或长期未更新的仓库
-- 🔄 **重复检测** — 发现功能相似的仓库
-- 🏃 **预览模式** — `dry_run: true` 仅预览不修改
