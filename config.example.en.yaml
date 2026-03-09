@@ -1,0 +1,39 @@
+# StarAutoManager Configuration
+# ⚠️ Sensitive values MUST be set via GitHub Secrets — NEVER put them here:
+#   - GITHUB_TOKEN: GitHub Personal Access Token
+#   - LLM_BASE_URL: LLM API endpoint (e.g. https://api.openai.com/v1)
+#   - LLM_API_KEY:  LLM API key
+
+github:
+  # GitHub username (leave empty to auto-detect from GITHUB_TOKEN)
+  username: ""
+  # token is injected via GITHUB_TOKEN env var — do NOT put it here
+
+llm:
+  # base_url and api_key MUST be set via Secrets — cannot be configured here
+  model: "gpt-4o-mini"     # Model name (can also override via LLM_MODEL secret)
+  temperature: 0.3          # Lower = more consistent categorization (recommend 0.1-0.4)
+  max_tokens: 4096          # Max tokens per LLM call
+  batch_size: 20            # Repos per LLM batch
+  language: "en"            # Prompt language: "en" or "zh"
+
+categorization:
+  max_new_lists: 5          # Max new lists created per run
+  min_confidence: "medium"  # Auto-apply threshold: high, medium, low
+  fetch_readme: true        # Fetch README for low-confidence repos (two-pass analysis)
+  dry_run: false            # Preview only — no changes applied (true = safe mode)
+  ignore_archived: true     # Skip archived repos
+  ignore_forks: false       # Skip forked repos
+  max_repos_per_run: 100    # Max repos per run (0 = unlimited)
+
+notifications:
+  issue: true               # Create GitHub Issue report
+  issue_label: "star-manager"  # Issue label name
+  summary_in_readme: true   # Generate STARS.md summary file
+
+advanced:
+  cache_file: ".star-cache.json"  # Cache file path (avoids re-categorizing)
+  rate_limit_buffer: 500          # GraphQL API rate limit headroom
+  concurrent_llm_calls: 3         # Concurrent LLM requests
+  retry_attempts: 3               # API retry count
+  retry_delay: 5                  # Retry interval (seconds)

@@ -1,0 +1,82 @@
+name: StarAutoManager
+
+on:
+  # Scheduled run (default: every Monday at 09:00 UTC)
+  schedule:
+    - cron: "0 9 * * 1"
+
+  # Manual trigger with configurable inputs
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Preview only — no changes applied"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+      max_repos:
+        description: "Maximum repos to process (0 = unlimited)"
+        required: false
+        default: "100"
+        type: string
+      force_recategorize:
+        description: "Ignore cache and re-categorize all repos"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+  # Trigger when user stars a new repo
+  watch:
+    types: [started]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  organize-stars:
+    runs-on: ubuntu-latest
+
+    # Only run 'watch' event if triggered by the repo owner
+    if: >-
+      github.event_name != 'watch' ||
+      github.actor == github.repository_owner
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run StarAutoManager
+        env:
+          GITHUB_TOKEN: ${{ secrets.STAR_GITHUB_TOKEN }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          INPUT_DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+          INPUT_MAX_REPOS: ${{ github.event.inputs.max_repos || '100' }}
+          INPUT_FORCE_RECATEGORIZE: ${{ github.event.inputs.force_recategorize || 'false' }}
+        run: python -m scripts.main
+
+      - name: Commit cache and STARS.md
+        # Only commit if not a dry run
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .star-cache.json STARS.md || true
+          git diff --cached --quiet || git commit -m "chore: update star categorization cache and STARS.md"
+          git push || true

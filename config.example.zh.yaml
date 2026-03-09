@@ -1,0 +1,39 @@
+# StarAutoManager 配置文件
+# ⚠️ 敏感信息必须通过 GitHub Secrets 设置，请勿写在此文件中：
+#   - GITHUB_TOKEN: GitHub Personal Access Token
+#   - LLM_BASE_URL: LLM API 地址（如 https://api.openai.com/v1）
+#   - LLM_API_KEY:  LLM API 密钥
+
+github:
+  # GitHub 用户名（留空则自动从 GITHUB_TOKEN 获取）
+  username: ""
+  # token 通过环境变量 GITHUB_TOKEN 传入，请勿写在这里
+
+llm:
+  # base_url 和 api_key 必须通过 Secrets 传入，此处不可配置
+  model: "gpt-4o-mini"     # 模型名称（也可通过 Secret LLM_MODEL 覆盖）
+  temperature: 0.3          # 温度越低分类越稳定（推荐 0.1-0.4）
+  max_tokens: 4096          # 单次 LLM 调用最大 token 数
+  batch_size: 20            # 每次发送给 LLM 的仓库数量
+  language: "zh"            # 提示语言: "en" 或 "zh"
+
+categorization:
+  max_new_lists: 5          # 每次运行最多创建的新列表数
+  min_confidence: "medium"  # 自动执行的最低置信度: high, medium, low
+  fetch_readme: true        # 对低置信度的仓库获取 README 做二次分析
+  dry_run: false            # 仅预览不实际修改（true = 安全模式）
+  ignore_archived: true     # 跳过已归档的仓库
+  ignore_forks: false       # 跳过 fork 的仓库
+  max_repos_per_run: 100    # 每次最多处理的仓库数（0 = 不限制）
+
+notifications:
+  issue: true               # 创建 GitHub Issue 报告
+  issue_label: "star-manager"  # Issue 标签名
+  summary_in_readme: true   # 生成 STARS.md 汇总文件
+
+advanced:
+  cache_file: ".star-cache.json"  # 缓存文件路径（避免重复分类）
+  rate_limit_buffer: 500          # GraphQL API 速率限制预留额度
+  concurrent_llm_calls: 3         # 并发 LLM 调用数
+  retry_attempts: 3               # API 调用失败重试次数
+  retry_delay: 5                  # 重试间隔（秒）
