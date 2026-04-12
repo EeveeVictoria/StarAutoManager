@@ -10,21 +10,17 @@ github:
   # token is injected via GITHUB_TOKEN env var — do NOT put it here
 
 llm:
-  # base_url and api_key MUST be set via Secrets — cannot be configured here
-  model: "gpt-5.4"         # Model name (can also override via LLM_MODEL secret)
-  temperature: 0.3          # Lower = more consistent categorization (recommend 0.1-0.4)
-  max_tokens: 4096          # Max tokens per LLM call
-  batch_size: 20            # Repos per LLM batch
-  language: "en"            # Prompt language: "en" or "zh"
+  model: "gemini-2.5-flash-lite" # Since you use Gemini, this is a great, fast choice
+  temperature: 0.3              # Keep this low for "robotic" consistency
+  batch_size: 20                
+  language: "en"
 
 categorization:
-  max_new_lists: 5          # Max new lists created per run
-  min_confidence: "medium"  # Auto-apply threshold: high, medium, low
-  fetch_readme: true        # Fetch README for low-confidence repos (two-pass analysis)
-  dry_run: false            # Preview only — no changes applied (true = safe mode)
-  ignore_archived: true     # Skip archived repos
-  ignore_forks: false       # Skip forked repos
-  max_repos_per_run: 100    # Max repos per run (0 = unlimited)
+  max_new_lists: 5        
+  min_confidence: "medium" 
+  fetch_readme: true      # Highly recommended for accuracy
+  dry_run: true           # Set to TRUE for your first run! 
+  max_repos_per_run: 50   # Start small to make sure you like the categories
 
 notifications:
   issue: true               # Create GitHub Issue report
