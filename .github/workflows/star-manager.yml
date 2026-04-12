@@ -53,7 +53,7 @@ jobs:
 
       - name: Run StarAutoManager
         env:
-          GITHUB_TOKEN: ${{ secrets.STAR_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SECRET_TOKEN }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_MODEL: ${{ secrets.LLM_MODEL }}
