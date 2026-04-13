@@ -26,7 +26,6 @@ Thumbs.db
 
 # Project runtime files
 .star-cache.json
-STARS.md
 config.yaml
 
 # Secrets — NEVER commit these
