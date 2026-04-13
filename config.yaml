@@ -2,7 +2,7 @@
 # ⚠️ Sensitive values MUST be set via GitHub Secrets — NEVER put them here:
 #   - GITHUB_TOKEN: GitHub Personal Access Token
 #   - LLM_BASE_URL: LLM API endpoint (e.g. https://api.openai.com/v1)
-#   - LLM_API_KEY:  LLM API key
+#   - LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
 
 github:
   # GitHub username (leave empty to auto-detect from GITHUB_TOKEN)
