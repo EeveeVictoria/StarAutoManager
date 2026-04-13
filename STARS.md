@@ -1,19 +1,51 @@
 # ⭐ My Starred Repositories
 
-> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 01:10 UTC
+> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 01:35 UTC
 
 **100** repos across **8** lists
 
 ## 📑 Table of Contents
 
+- [✨ Inspiration](#✨-inspiration) (3)
+- [Notebooklm](#notebooklm) (19)
 - [D](#d) (31)
-- [Notebooklm](#notebooklm) (18)
 - [Shortcuts GitHub](#shortcuts-github) (114)
 - [Ir](#ir) (11)
 - [CSS](#css) (8)
 - [Browser extension](#browser-extension) (3)
 - [New List: Remote Access & Development](#new-list:-remote-access-&-development) (1)
-- [✨ Inspiration](#✨-inspiration) (2)
+
+## ✨ Inspiration
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 421,130 |
+| [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | ✅  Curated list of resources for developers  | - | 21,617 |
+| [swyxio/spark-joy](https://github.com/swyxio/spark-joy) | ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product. | - | 9,742 |
+
+## Notebooklm
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,169 |
+| [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,647 |
+| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,385 |
+| [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | ✨ Reverse-engineered Python API for Google Gemini web app | Python | 2,635 |
+| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,497 |
+| [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) | ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the nex... | - | 543 |
+| [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 320 |
+| [vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp) | MCP Server for Bear note taking app available as Claude Desktop extension or sta... | TypeScript | 170 |
+| [Feng6611/Obsidian-open-in-Teminal](https://github.com/Feng6611/Obsidian-open-in-Teminal) | Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Ge... | TypeScript | 39 |
+| [photon-hq/notebooklm-kit](https://github.com/photon-hq/notebooklm-kit) | TypeScript SDK for programmatic access to Google NotebookLM | TypeScript | 34 |
+| [muharamdani/notebooklm-categorizer](https://github.com/muharamdani/notebooklm-categorizer) | NotebookLM Project Categorizer | JavaScript | 28 |
+| [MarcoDotIO/OpenClawKit](https://github.com/MarcoDotIO/OpenClawKit) | A Swift package SDK for running local OpenClaw-style AI agent workflows inside n... | Swift | 23 |
+| [sshnaidm/notebooklm](https://github.com/sshnaidm/notebooklm) | NotebookLM related tools and hacks | Shell | 19 |
+| [RichardLitt/a-bear](https://github.com/RichardLitt/a-bear) | You wouldn't import a bear | JavaScript | 11 |
+| [m4yk3ldev/notebooklm-mcp](https://github.com/m4yk3ldev/notebooklm-mcp) | MCP server for Google NotebookLM — 32 tools for notebooks, sources, research, an... | TypeScript | 7 |
+| [boredom1234/codebase-consolidator](https://github.com/boredom1234/codebase-consolidator) | A must-have tool for developers working with LLMs. It intelligently consolidates... | Python | 2 |
+| [Jasonnor/web-tldr](https://github.com/Jasonnor/web-tldr) | A Chrome extension that seamlessly integrates Google NotebookLM into your browsi... | JavaScript | 2 |
+| [karancodex/Codex-AI](https://github.com/karancodex/Codex-AI) | CodeX AI - A React Native chatbot powered by Google's Gemini Pro API. Features d... | TypeScript | 2 |
+| [nikolareljin/docforge](https://github.com/nikolareljin/docforge) | Auto-generate developer references and end-user guides from any codebase. Runs o... | Python | 1 |
 
 ## D
 
@@ -53,38 +85,15 @@
 | [Erikote04/App-Dev-Tutorials](https://github.com/Erikote04/App-Dev-Tutorials) | Learn the basics of Xcode, SwiftUI, and UIKit to create compelling apps. | Swift | 1 |
 | [johngarrett/unhand](https://github.com/johngarrett/unhand) | drag and drop helper for ios | Swift | 1 |
 
-## Notebooklm
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,156 |
-| [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,647 |
-| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,385 |
-| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,497 |
-| [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) | ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the nex... | - | 543 |
-| [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 320 |
-| [vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp) | MCP Server for Bear note taking app available as Claude Desktop extension or sta... | TypeScript | 170 |
-| [Feng6611/Obsidian-open-in-Teminal](https://github.com/Feng6611/Obsidian-open-in-Teminal) | Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Ge... | TypeScript | 39 |
-| [photon-hq/notebooklm-kit](https://github.com/photon-hq/notebooklm-kit) | TypeScript SDK for programmatic access to Google NotebookLM | TypeScript | 34 |
-| [muharamdani/notebooklm-categorizer](https://github.com/muharamdani/notebooklm-categorizer) | NotebookLM Project Categorizer | JavaScript | 28 |
-| [MarcoDotIO/OpenClawKit](https://github.com/MarcoDotIO/OpenClawKit) | A Swift package SDK for running local OpenClaw-style AI agent workflows inside n... | Swift | 23 |
-| [sshnaidm/notebooklm](https://github.com/sshnaidm/notebooklm) | NotebookLM related tools and hacks | Shell | 19 |
-| [RichardLitt/a-bear](https://github.com/RichardLitt/a-bear) | You wouldn't import a bear | JavaScript | 11 |
-| [m4yk3ldev/notebooklm-mcp](https://github.com/m4yk3ldev/notebooklm-mcp) | MCP server for Google NotebookLM — 32 tools for notebooks, sources, research, an... | TypeScript | 7 |
-| [boredom1234/codebase-consolidator](https://github.com/boredom1234/codebase-consolidator) | A must-have tool for developers working with LLMs. It intelligently consolidates... | Python | 2 |
-| [Jasonnor/web-tldr](https://github.com/Jasonnor/web-tldr) | A Chrome extension that seamlessly integrates Google NotebookLM into your browsi... | JavaScript | 2 |
-| [karancodex/Codex-AI](https://github.com/karancodex/Codex-AI) | CodeX AI - A React Native chatbot powered by Google's Gemini Pro API. Features d... | TypeScript | 2 |
-| [nikolareljin/docforge](https://github.com/nikolareljin/docforge) | Auto-generate developer references and end-user guides from any codebase. Runs o... | Python | 1 |
-
 ## Shortcuts GitHub
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
 | [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs ... | TypeScript | 48,693 |
-| [utmapp/UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | Swift | 33,640 |
+| [utmapp/UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | Swift | 33,641 |
 | [wled/WLED](https://github.com/wled/WLED) | Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi! | C++ | 17,802 |
 | [git-up/GitUp](https://github.com/git-up/GitUp) | The Git interface you've been missing all your life has finally arrived. | Objective-C | 11,966 |
-| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | Swift | 7,733 |
+| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | Swift | 7,734 |
 | [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) | ➷ A robust Javascript library for capturing keyboard input. It has no dependenci... | TypeScript | 7,121 |
 | [blinksh/blink](https://github.com/blinksh/blink) | Blink Mobile Shell for iOS (Mosh based) | Swift | 6,694 |
 | [gluonfield/enchanted](https://github.com/gluonfield/enchanted) | Enchanted is iOS and macOS app for chatting with private self hosted language mo... | Swift | 5,888 |
@@ -240,20 +249,13 @@
 |------------|-------------|----------|-------|
 | [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) | FreeRDP is a free remote desktop protocol library and clients | C | 13,031 |
 
-## ✨ Inspiration
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | ✅  Curated list of resources for developers  | - | 21,617 |
-| [swyxio/spark-joy](https://github.com/swyxio/spark-joy) | ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product. | - | 9,742 |
-
 ## 🌐 Language Distribution
 
-| TypeScript      | ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 20.0% (20) |
-| Swift           | ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 20.0% (20) |
+| TypeScript      | █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 19.0% (19) |
+| Swift           | █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 18.0% (18) |
 | JavaScript      | ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 13.0% (13) |
-| Unknown         | █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 11.0% (11) |
-| Python          | ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 7.0% (7) |
+| Unknown         | ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 12.0% (12) |
+| Python          | ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 9.0% (9) |
 | C               | ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 5.0% (5) |
 | Shell           | ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 4.0% (4) |
 | CSS             | ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 4.0% (4) |
