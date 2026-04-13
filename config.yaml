@@ -19,7 +19,7 @@ categorization:
   max_new_lists: 5        
   min_confidence: "medium" 
   fetch_readme: true      # Highly recommended for accuracy
-  dry_run: true           # Set to TRUE for your first run! 
+  dry_run: false           # Set to TRUE for your first run! 
   max_repos_per_run: 10   # Start small to make sure you like the categories
 
 notifications:
