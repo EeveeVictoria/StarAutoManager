@@ -55,7 +55,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SECRET_TOKEN }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}   # <--- Check this line!
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}  
           LLM_MODEL: ${{ secrets.LLM_MODEL }}
           INPUT_DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
           INPUT_MAX_REPOS: ${{ github.event.inputs.max_repos || '100' }}
