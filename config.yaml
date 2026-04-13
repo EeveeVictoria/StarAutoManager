@@ -10,17 +10,17 @@ github:
   # token is injected via GITHUB_TOKEN env var — do NOT put it here
 
 llm:
-  model: "gemini-1.5-flash" # Since you use Gemini, this is a great, fast choice
-  temperature: 0.3              # Keep this low for "robotic" consistency
-  batch_size: 20                
+  model: "gemini-2.5-flash-lite"  # Update this too
+  temperature: 0.3
+  batch_size: 20
   language: "en"
 
 categorization:
-  max_new_lists: 5        
-  min_confidence: "medium" 
-  fetch_readme: true      # Highly recommended for accuracy
-  dry_run: false           # Set to TRUE for your first run! 
-  max_repos_per_run: 10   # Start small to make sure you like the categories
+  max_new_lists: 3        # Change from 5 to 3
+  min_confidence: "high"  # Change from "medium" to "high"
+  fetch_readme: true
+  dry_run: false
+  max_repos_per_run: 50   # Change from 10 to 50
 
 notifications:
   issue: true               # Create GitHub Issue report
