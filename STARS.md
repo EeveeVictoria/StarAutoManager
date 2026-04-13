@@ -1,19 +1,37 @@
 # ⭐ My Starred Repositories
 
-> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 02:27 UTC
+> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 02:33 UTC
 
 **100** repos across **8** lists
 
 ## 📑 Table of Contents
 
+- [New List: Network Tools](#new-list:-network-tools) (1)
+- [Browser extension](#browser-extension) (4)
 - [✨ Inspiration](#✨-inspiration) (3)
 - [Notebooklm](#notebooklm) (19)
 - [D](#d) (31)
 - [Shortcuts GitHub](#shortcuts-github) (114)
 - [Ir](#ir) (11)
 - [CSS](#css) (8)
-- [Browser extension](#browser-extension) (3)
 - [New List: Remote Access & Development](#new-list:-remote-access-&-development) (1)
+
+## New List: Network Tools
+
+*Tools and lists related to network proxies, VPNs, and other network-level utilities.*
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [clarketm/proxy-list](https://github.com/clarketm/proxy-list) | A list of free, public, forward proxy servers. UPDATED DAILY! | - | 2,378 |
+
+## Browser extension
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [ovity/octotree](https://github.com/ovity/octotree) | GitHub on steroids | JavaScript | 23,186 |
+| [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) | Google Sheets API wrapper for Javascript / Typescript | TypeScript | 2,483 |
+| [dessant/web-archives](https://github.com/dessant/web-archives) | Browser extension for viewing archived and cached versions of web pages, availab... | JavaScript | 1,531 |
+| [godruoyi/readog](https://github.com/godruoyi/readog) | [🚧] Readog is a browser extension that can save your links to any platform. | TypeScript | 21 |
 
 ## ✨ Inspiration
 
@@ -29,7 +47,7 @@
 |------------|-------------|----------|-------|
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,185 |
 | [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,646 |
-| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,386 |
+| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,387 |
 | [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | ✨ Reverse-engineered Python API for Google Gemini web app | Python | 2,635 |
 | [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,497 |
 | [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) | ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the nex... | - | 543 |
@@ -89,7 +107,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs ... | TypeScript | 48,695 |
+| [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs ... | TypeScript | 48,696 |
 | [utmapp/UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | Swift | 33,641 |
 | [wled/WLED](https://github.com/wled/WLED) | Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi! | C++ | 17,802 |
 | [git-up/GitUp](https://github.com/git-up/GitUp) | The Git interface you've been missing all your life has finally arrived. | Objective-C | 11,966 |
@@ -232,14 +250,6 @@
 | [xarbit/cosmic-uniform-glass-theme](https://github.com/xarbit/cosmic-uniform-glass-theme) | A beautiful, modern dark theme for the COSMIC™ Desktop featuring a sleek glass-m... | - | 15 |
 | [rose-pine/bear-blog](https://github.com/rose-pine/bear-blog) | Soho vibes for ʕ•ᴥ•ʔ Bear | CSS | 11 |
 | [Amir-Ho3eiiiiiN/Wooden-Text-Typography](https://github.com/Amir-Ho3eiiiiiN/Wooden-Text-Typography) |  I designed a wooden text typography effect using CSS, giving the text a natural... | CSS | 1 |
-
-## Browser extension
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) | Google Sheets API wrapper for Javascript / Typescript | TypeScript | 2,483 |
-| [dessant/web-archives](https://github.com/dessant/web-archives) | Browser extension for viewing archived and cached versions of web pages, availab... | JavaScript | 1,531 |
-| [godruoyi/readog](https://github.com/godruoyi/readog) | [🚧] Readog is a browser extension that can save your links to any platform. | TypeScript | 21 |
 
 ## New List: Remote Access & Development
 
