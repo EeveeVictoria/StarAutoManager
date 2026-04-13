@@ -1,6 +1,6 @@
 # ⭐ My Starred Repositories
 
-> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 05:03 UTC
+> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 10:25 UTC
 
 **100** repos across **10** lists
 
@@ -23,7 +23,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) |  | TypeScript | 8,707 |
+| [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) |  | TypeScript | 8,712 |
 | [gkarthik99637/data-jar-web](https://github.com/gkarthik99637/data-jar-web) |  | TypeScript | 1 |
 
 ## New List: Network Tools
@@ -38,7 +38,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [ovity/octotree](https://github.com/ovity/octotree) | GitHub on steroids | JavaScript | 23,186 |
+| [ovity/octotree](https://github.com/ovity/octotree) | GitHub on steroids | JavaScript | 23,187 |
 | [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) | Google Sheets API wrapper for Javascript / Typescript | TypeScript | 2,483 |
 | [dessant/web-archives](https://github.com/dessant/web-archives) | Browser extension for viewing archived and cached versions of web pages, availab... | JavaScript | 1,531 |
 | [godruoyi/readog](https://github.com/godruoyi/readog) | [🚧] Readog is a browser extension that can save your links to any platform. | TypeScript | 21 |
@@ -47,7 +47,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 421,168 |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 421,228 |
 | [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | ✅  Curated list of resources for developers  | - | 21,619 |
 | [swyxio/spark-joy](https://github.com/swyxio/spark-joy) | ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product. | - | 9,742 |
 
@@ -55,13 +55,13 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,240 |
-| [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,647 |
-| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,391 |
-| [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | ✨ Reverse-engineered Python API for Google Gemini web app | Python | 2,636 |
-| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,497 |
-| [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) | ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the nex... | - | 544 |
-| [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 322 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,369 |
+| [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,645 |
+| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,399 |
+| [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | ✨ Reverse-engineered Python API for Google Gemini web app | Python | 2,637 |
+| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,498 |
+| [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) | ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the nex... | - | 545 |
+| [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 325 |
 | [vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp) | MCP Server for Bear note taking app available as Claude Desktop extension or sta... | TypeScript | 170 |
 | [Feng6611/Obsidian-open-in-Teminal](https://github.com/Feng6611/Obsidian-open-in-Teminal) | Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Ge... | TypeScript | 39 |
 | [photon-hq/notebooklm-kit](https://github.com/photon-hq/notebooklm-kit) | TypeScript SDK for programmatic access to Google NotebookLM | TypeScript | 34 |
@@ -81,10 +81,10 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [ish-app/ish](https://github.com/ish-app/ish) | Linux shell for iOS | C | 19,669 |
-| [altstoreio/AltStore](https://github.com/altstoreio/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | Swift | 13,753 |
+| [ish-app/ish](https://github.com/ish-app/ish) | Linux shell for iOS | C | 19,672 |
+| [altstoreio/AltStore](https://github.com/altstoreio/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | Swift | 13,754 |
 | [x2on/OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) | A script for compiling OpenSSL for iOS Devices (iPhone, iPad, Watch, iPod Touch,... | Shell | 2,531 |
-| [CLARATION/Impactor](https://github.com/CLARATION/Impactor) | Feature rich iOS/tvOS sideloading application written in Rust. | Rust | 1,864 |
+| [CLARATION/Impactor](https://github.com/CLARATION/Impactor) | Feature rich iOS/tvOS sideloading application written in Rust. | Rust | 1,867 |
 | [holzschu/ios_system](https://github.com/holzschu/ios_system) | Drop-in replacement for system() in iOS programs | C | 1,027 |
 | [1998code/SwiftGlass](https://github.com/1998code/SwiftGlass) | Glassy Everything, even Old Devices. [ AI Assistant available below ] | Swift | 382 |
 | [irccloud/ios](https://github.com/irccloud/ios) | IRCCloud iOS App | Objective-C | 293 |
@@ -117,17 +117,17 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs ... | TypeScript | 48,698 |
-| [utmapp/UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | Swift | 33,642 |
+| [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs ... | TypeScript | 48,704 |
+| [utmapp/UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | Swift | 33,646 |
 | [wled/WLED](https://github.com/wled/WLED) | Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi! | C++ | 17,802 |
-| [git-up/GitUp](https://github.com/git-up/GitUp) | The Git interface you've been missing all your life has finally arrived. | Objective-C | 11,967 |
-| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | Swift | 7,737 |
+| [git-up/GitUp](https://github.com/git-up/GitUp) | The Git interface you've been missing all your life has finally arrived. | Objective-C | 11,968 |
+| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | Swift | 7,739 |
 | [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) | ➷ A robust Javascript library for capturing keyboard input. It has no dependenci... | TypeScript | 7,121 |
 | [blinksh/blink](https://github.com/blinksh/blink) | Blink Mobile Shell for iOS (Mosh based) | Swift | 6,694 |
 | [gluonfield/enchanted](https://github.com/gluonfield/enchanted) | Enchanted is iOS and macOS app for chatting with private self hosted language mo... | Swift | 5,889 |
-| [CLARATION/Feather](https://github.com/CLARATION/Feather) | Free on-device iOS/iPadOS application manager/installer, using certificates part... | Swift | 3,925 |
-| [thebaselab/codeapp](https://github.com/thebaselab/codeapp) | Building a full-fledged code editor for iPad | Swift | 3,799 |
-| [github/codeql-action](https://github.com/github/codeql-action) | Actions for running CodeQL analysis | TypeScript | 1,523 |
+| [CLARATION/Feather](https://github.com/CLARATION/Feather) | Free on-device iOS/iPadOS application manager/installer, using certificates part... | Swift | 3,927 |
+| [thebaselab/codeapp](https://github.com/thebaselab/codeapp) | Building a full-fledged code editor for iPad | Swift | 3,800 |
+| [github/codeql-action](https://github.com/github/codeql-action) | Actions for running CodeQL analysis | TypeScript | 1,522 |
 | [electrikmilk/cherri](https://github.com/electrikmilk/cherri) | Siri Shortcuts Programming Language 🍒 | Go | 1,363 |
 | [pnpm/action-setup](https://github.com/pnpm/action-setup) | Install pnpm package manager | TypeScript | 1,228 |
 | [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) | Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-s... | Swift | 799 |
@@ -187,13 +187,13 @@
 | [Dan1elTheMan1el/IOS-Shortcuts](https://github.com/Dan1elTheMan1el/IOS-Shortcuts) | Repo to track my shortcut files/updates | HTML | 9 |
 | [thejoaov/tray-link](https://github.com/thejoaov/tray-link) | Menu bar app and CLI to open, organize, and launch local projects faster. | TypeScript | 9 |
 | [wajeht/bang](https://github.com/wajeht/bang) | your personal command center for blazingly fast web navigation | TypeScript | 9 |
+| [mthlpbs/ALT-Code-Gboard-Dictionary](https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary) | Enhance your typing experience with Alt Codes for Gboard. This repo provides eas... | - | 8 |
 | [OpenJelly/tree-sitter-jelly](https://github.com/OpenJelly/tree-sitter-jelly) | Tree Sitter Grammar for the Jelly language | C | 8 |
 | [OwenPawl/ShortcutDocumentation](https://github.com/OwenPawl/ShortcutDocumentation) |  | Python | 8 |
 | [Kenna-Blackburn/ShortcutsToolsSQLite](https://github.com/Kenna-Blackburn/ShortcutsToolsSQLite) |  | Swift | 8 |
 | [rudrankriyam/App-Intents-Agent-Skill](https://github.com/rudrankriyam/App-Intents-Agent-Skill) | App Intents guidance for AI coding tools for Siri, Shortcuts, Spotlight, Apple I... | - | 8 |
 | [yahiaelbanna/gmsmpl](https://github.com/yahiaelbanna/gmsmpl) | JavaScript library which shortcuts the codes and save your coding time with prof... | JavaScript | 8 |
 | [alanscodelog/shortcuts-manager](https://github.com/alanscodelog/shortcuts-manager) | A  shortcut manager library for handling ALL the shortcut needs of an applicatio... | TypeScript | 8 |
-| [mthlpbs/ALT-Code-Gboard-Dictionary](https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary) | Enhance your typing experience with Alt Codes for Gboard. This repo provides eas... | - | 7 |
 | [wd006/shortquts](https://github.com/wd006/shortquts) | An open-source, community-driven platform for discovering, sharing, and managing... | PHP | 7 |
 | [chromewillow/jellycuts-mcp-server](https://github.com/chromewillow/jellycuts-mcp-server) | Model Context Protocol (MCP) server for JellyCuts iOS Shortcuts automation. Prov... | - | 6 |
 | [nuit-dhiver/folk-s-db](https://github.com/nuit-dhiver/folk-s-db) | A local Database on iOS devices for Shortcuts creators. | Swift | 6 |
@@ -236,7 +236,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 77,082 |
+| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 77,088 |
 | [lzm0x219/vscode-github-markdown](https://github.com/lzm0x219/vscode-github-markdown) | GitHub Markdown extension for VS Code. | SCSS | 58 |
 | [STRRL/shell-now](https://github.com/STRRL/shell-now) | Share your terminal in the browser in seconds. eg. Vibe Coding with Claude Code ... | Go | 47 |
 | [Stasshe/Pyxis-CodeCanvas](https://github.com/Stasshe/Pyxis-CodeCanvas) | Pyxis is an FULL client-side  IDE that runs in the browser(static site) with Nod... | TypeScript | 44 |
@@ -267,7 +267,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) | FreeRDP is a free remote desktop protocol library and clients | C | 13,031 |
+| [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) | FreeRDP is a free remote desktop protocol library and clients | C | 13,032 |
 
 ## 🌐 Language Distribution
 
