@@ -1,6 +1,6 @@
 # ⭐ My Starred Repositories
 
-> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 02:04 UTC
+> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 02:27 UTC
 
 **100** repos across **8** lists
 
@@ -19,7 +19,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 421,137 |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 421,141 |
 | [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | ✅  Curated list of resources for developers  | - | 21,617 |
 | [swyxio/spark-joy](https://github.com/swyxio/spark-joy) | ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product. | - | 9,742 |
 
@@ -27,9 +27,9 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,177 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,185 |
 | [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,646 |
-| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,385 |
+| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,386 |
 | [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | ✨ Reverse-engineered Python API for Google Gemini web app | Python | 2,635 |
 | [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,497 |
 | [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) | ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the nex... | - | 543 |
@@ -89,7 +89,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs ... | TypeScript | 48,694 |
+| [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs ... | TypeScript | 48,695 |
 | [utmapp/UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | Swift | 33,641 |
 | [wled/WLED](https://github.com/wled/WLED) | Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi! | C++ | 17,802 |
 | [git-up/GitUp](https://github.com/git-up/GitUp) | The Git interface you've been missing all your life has finally arrived. | Objective-C | 11,966 |
@@ -208,7 +208,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 77,078 |
+| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 77,079 |
 | [lzm0x219/vscode-github-markdown](https://github.com/lzm0x219/vscode-github-markdown) | GitHub Markdown extension for VS Code. | SCSS | 58 |
 | [STRRL/shell-now](https://github.com/STRRL/shell-now) | Share your terminal in the browser in seconds. eg. Vibe Coding with Claude Code ... | Go | 47 |
 | [Stasshe/Pyxis-CodeCanvas](https://github.com/Stasshe/Pyxis-CodeCanvas) | Pyxis is an FULL client-side  IDE that runs in the browser(static site) with Nod... | TypeScript | 44 |
