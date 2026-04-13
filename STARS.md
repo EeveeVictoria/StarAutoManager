@@ -1,12 +1,12 @@
 # ⭐ My Starred Repositories
 
-> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 03:48 UTC
+> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 05:03 UTC
 
-**100** repos across **9** lists
+**100** repos across **10** lists
 
 ## 📑 Table of Contents
 
-- [New List: Web Development Tools](#new-list:-web-development-tools) (1)
+- [New List: Web Development Tools](#new-list:-web-development-tools) (2)
 - [New List: Network Tools](#new-list:-network-tools) (1)
 - [Browser extension](#browser-extension) (4)
 - [✨ Inspiration](#✨-inspiration) (3)
@@ -23,6 +23,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
+| [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) |  | TypeScript | 8,707 |
 | [gkarthik99637/data-jar-web](https://github.com/gkarthik99637/data-jar-web) |  | TypeScript | 1 |
 
 ## New List: Network Tools
@@ -46,21 +47,21 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 421,158 |
-| [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | ✅  Curated list of resources for developers  | - | 21,618 |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 421,168 |
+| [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | ✅  Curated list of resources for developers  | - | 21,619 |
 | [swyxio/spark-joy](https://github.com/swyxio/spark-joy) | ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product. | - | 9,742 |
 
 ## Notebooklm
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,220 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,240 |
 | [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,647 |
-| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,389 |
-| [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | ✨ Reverse-engineered Python API for Google Gemini web app | Python | 2,635 |
+| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,391 |
+| [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | ✨ Reverse-engineered Python API for Google Gemini web app | Python | 2,636 |
 | [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,497 |
 | [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) | ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the nex... | - | 544 |
-| [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 321 |
+| [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 322 |
 | [vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp) | MCP Server for Bear note taking app available as Claude Desktop extension or sta... | TypeScript | 170 |
 | [Feng6611/Obsidian-open-in-Teminal](https://github.com/Feng6611/Obsidian-open-in-Teminal) | Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Ge... | TypeScript | 39 |
 | [photon-hq/notebooklm-kit](https://github.com/photon-hq/notebooklm-kit) | TypeScript SDK for programmatic access to Google NotebookLM | TypeScript | 34 |
@@ -80,10 +81,10 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [ish-app/ish](https://github.com/ish-app/ish) | Linux shell for iOS | C | 19,668 |
-| [altstoreio/AltStore](https://github.com/altstoreio/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | Swift | 13,751 |
+| [ish-app/ish](https://github.com/ish-app/ish) | Linux shell for iOS | C | 19,669 |
+| [altstoreio/AltStore](https://github.com/altstoreio/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | Swift | 13,753 |
 | [x2on/OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) | A script for compiling OpenSSL for iOS Devices (iPhone, iPad, Watch, iPod Touch,... | Shell | 2,531 |
-| [CLARATION/Impactor](https://github.com/CLARATION/Impactor) | Feature rich iOS/tvOS sideloading application written in Rust. | Rust | 1,862 |
+| [CLARATION/Impactor](https://github.com/CLARATION/Impactor) | Feature rich iOS/tvOS sideloading application written in Rust. | Rust | 1,864 |
 | [holzschu/ios_system](https://github.com/holzschu/ios_system) | Drop-in replacement for system() in iOS programs | C | 1,027 |
 | [1998code/SwiftGlass](https://github.com/1998code/SwiftGlass) | Glassy Everything, even Old Devices. [ AI Assistant available below ] | Swift | 382 |
 | [irccloud/ios](https://github.com/irccloud/ios) | IRCCloud iOS App | Objective-C | 293 |
@@ -120,7 +121,7 @@
 | [utmapp/UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | Swift | 33,642 |
 | [wled/WLED](https://github.com/wled/WLED) | Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi! | C++ | 17,802 |
 | [git-up/GitUp](https://github.com/git-up/GitUp) | The Git interface you've been missing all your life has finally arrived. | Objective-C | 11,967 |
-| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | Swift | 7,736 |
+| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | Swift | 7,737 |
 | [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) | ➷ A robust Javascript library for capturing keyboard input. It has no dependenci... | TypeScript | 7,121 |
 | [blinksh/blink](https://github.com/blinksh/blink) | Blink Mobile Shell for iOS (Mosh based) | Swift | 6,694 |
 | [gluonfield/enchanted](https://github.com/gluonfield/enchanted) | Enchanted is iOS and macOS app for chatting with private self hosted language mo... | Swift | 5,889 |
@@ -235,7 +236,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 77,080 |
+| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 77,082 |
 | [lzm0x219/vscode-github-markdown](https://github.com/lzm0x219/vscode-github-markdown) | GitHub Markdown extension for VS Code. | SCSS | 58 |
 | [STRRL/shell-now](https://github.com/STRRL/shell-now) | Share your terminal in the browser in seconds. eg. Vibe Coding with Claude Code ... | Go | 47 |
 | [Stasshe/Pyxis-CodeCanvas](https://github.com/Stasshe/Pyxis-CodeCanvas) | Pyxis is an FULL client-side  IDE that runs in the browser(static site) with Nod... | TypeScript | 44 |
