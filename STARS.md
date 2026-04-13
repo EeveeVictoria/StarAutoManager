@@ -1,6 +1,6 @@
 # ⭐ My Starred Repositories
 
-> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 01:05 UTC
+> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 01:06 UTC
 
 **100** repos across **8** lists
 
@@ -19,10 +19,10 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,153 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,154 |
 | [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,647 |
 | [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,385 |
-| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,498 |
+| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,497 |
 | [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) | ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the nex... | - | 543 |
 | [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 320 |
 | [vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp) | MCP Server for Bear note taking app available as Claude Desktop extension or sta... | TypeScript | 170 |
@@ -50,7 +50,7 @@
 | [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) | ➷ A robust Javascript library for capturing keyboard input. It has no dependenci... | TypeScript | 7,121 |
 | [blinksh/blink](https://github.com/blinksh/blink) | Blink Mobile Shell for iOS (Mosh based) | Swift | 6,694 |
 | [gluonfield/enchanted](https://github.com/gluonfield/enchanted) | Enchanted is iOS and macOS app for chatting with private self hosted language mo... | Swift | 5,888 |
-| [CLARATION/Feather](https://github.com/CLARATION/Feather) | Free on-device iOS/iPadOS application manager/installer, using certificates part... | Swift | 3,924 |
+| [CLARATION/Feather](https://github.com/CLARATION/Feather) | Free on-device iOS/iPadOS application manager/installer, using certificates part... | Swift | 3,925 |
 | [thebaselab/codeapp](https://github.com/thebaselab/codeapp) | Building a full-fledged code editor for iPad | Swift | 3,799 |
 | [github/codeql-action](https://github.com/github/codeql-action) | Actions for running CodeQL analysis | TypeScript | 1,523 |
 | [electrikmilk/cherri](https://github.com/electrikmilk/cherri) | Siri Shortcuts Programming Language 🍒 | Go | 1,363 |
