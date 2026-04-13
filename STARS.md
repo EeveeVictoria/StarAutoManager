@@ -1,19 +1,42 @@
 # ⭐ My Starred Repositories
 
-> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 01:04 UTC
+> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 01:05 UTC
 
 **100** repos across **8** lists
 
 ## 📑 Table of Contents
 
+- [Notebooklm](#notebooklm) (18)
 - [Shortcuts GitHub](#shortcuts-github) (114)
 - [Ir](#ir) (11)
-- [Notebooklm](#notebooklm) (17)
 - [D](#d) (30)
 - [CSS](#css) (8)
 - [Browser extension](#browser-extension) (3)
 - [New List: Remote Access & Development](#new-list:-remote-access-&-development) (1)
 - [✨ Inspiration](#✨-inspiration) (2)
+
+## Notebooklm
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,153 |
+| [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,647 |
+| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,385 |
+| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,498 |
+| [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) | ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the nex... | - | 543 |
+| [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 320 |
+| [vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp) | MCP Server for Bear note taking app available as Claude Desktop extension or sta... | TypeScript | 170 |
+| [Feng6611/Obsidian-open-in-Teminal](https://github.com/Feng6611/Obsidian-open-in-Teminal) | Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Ge... | TypeScript | 39 |
+| [photon-hq/notebooklm-kit](https://github.com/photon-hq/notebooklm-kit) | TypeScript SDK for programmatic access to Google NotebookLM | TypeScript | 34 |
+| [muharamdani/notebooklm-categorizer](https://github.com/muharamdani/notebooklm-categorizer) | NotebookLM Project Categorizer | JavaScript | 28 |
+| [MarcoDotIO/OpenClawKit](https://github.com/MarcoDotIO/OpenClawKit) | A Swift package SDK for running local OpenClaw-style AI agent workflows inside n... | Swift | 23 |
+| [sshnaidm/notebooklm](https://github.com/sshnaidm/notebooklm) | NotebookLM related tools and hacks | Shell | 19 |
+| [RichardLitt/a-bear](https://github.com/RichardLitt/a-bear) | You wouldn't import a bear | JavaScript | 11 |
+| [m4yk3ldev/notebooklm-mcp](https://github.com/m4yk3ldev/notebooklm-mcp) | MCP server for Google NotebookLM — 32 tools for notebooks, sources, research, an... | TypeScript | 7 |
+| [boredom1234/codebase-consolidator](https://github.com/boredom1234/codebase-consolidator) | A must-have tool for developers working with LLMs. It intelligently consolidates... | Python | 2 |
+| [Jasonnor/web-tldr](https://github.com/Jasonnor/web-tldr) | A Chrome extension that seamlessly integrates Google NotebookLM into your browsi... | JavaScript | 2 |
+| [karancodex/Codex-AI](https://github.com/karancodex/Codex-AI) | CodeX AI - A React Native chatbot powered by Google's Gemini Pro API. Features d... | TypeScript | 2 |
+| [nikolareljin/docforge](https://github.com/nikolareljin/docforge) | Auto-generate developer references and end-user guides from any codebase. Runs o... | Python | 1 |
 
 ## Shortcuts GitHub
 
@@ -138,7 +161,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 77,078 |
+| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 77,077 |
 | [lzm0x219/vscode-github-markdown](https://github.com/lzm0x219/vscode-github-markdown) | GitHub Markdown extension for VS Code. | SCSS | 58 |
 | [STRRL/shell-now](https://github.com/STRRL/shell-now) | Share your terminal in the browser in seconds. eg. Vibe Coding with Claude Code ... | Go | 47 |
 | [Stasshe/Pyxis-CodeCanvas](https://github.com/Stasshe/Pyxis-CodeCanvas) | Pyxis is an FULL client-side  IDE that runs in the browser(static site) with Nod... | TypeScript | 44 |
@@ -149,28 +172,6 @@
 | [Devang-09/codestream](https://github.com/Devang-09/codestream) | CodeStream Live: Real-time code syncing from VS Code to a mobile web viewer. Fea... | HTML | 2 |
 | [arko94/Test_ipad_connection](https://github.com/arko94/Test_ipad_connection) | Test connection to iPad through VS Code web | Python | 1 |
 | [13xNOOB/code-server-on-windows-wsl](https://github.com/13xNOOB/code-server-on-windows-wsl) | Personal documentation on setting up code-server using WSL for VS Code access on... | PowerShell | 1 |
-
-## Notebooklm
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,150 |
-| [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,647 |
-| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,385 |
-| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,498 |
-| [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 320 |
-| [vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp) | MCP Server for Bear note taking app available as Claude Desktop extension or sta... | TypeScript | 170 |
-| [Feng6611/Obsidian-open-in-Teminal](https://github.com/Feng6611/Obsidian-open-in-Teminal) | Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Ge... | TypeScript | 39 |
-| [photon-hq/notebooklm-kit](https://github.com/photon-hq/notebooklm-kit) | TypeScript SDK for programmatic access to Google NotebookLM | TypeScript | 34 |
-| [muharamdani/notebooklm-categorizer](https://github.com/muharamdani/notebooklm-categorizer) | NotebookLM Project Categorizer | JavaScript | 28 |
-| [MarcoDotIO/OpenClawKit](https://github.com/MarcoDotIO/OpenClawKit) | A Swift package SDK for running local OpenClaw-style AI agent workflows inside n... | Swift | 23 |
-| [sshnaidm/notebooklm](https://github.com/sshnaidm/notebooklm) | NotebookLM related tools and hacks | Shell | 19 |
-| [RichardLitt/a-bear](https://github.com/RichardLitt/a-bear) | You wouldn't import a bear | JavaScript | 11 |
-| [m4yk3ldev/notebooklm-mcp](https://github.com/m4yk3ldev/notebooklm-mcp) | MCP server for Google NotebookLM — 32 tools for notebooks, sources, research, an... | TypeScript | 7 |
-| [boredom1234/codebase-consolidator](https://github.com/boredom1234/codebase-consolidator) | A must-have tool for developers working with LLMs. It intelligently consolidates... | Python | 2 |
-| [Jasonnor/web-tldr](https://github.com/Jasonnor/web-tldr) | A Chrome extension that seamlessly integrates Google NotebookLM into your browsi... | JavaScript | 2 |
-| [karancodex/Codex-AI](https://github.com/karancodex/Codex-AI) | CodeX AI - A React Native chatbot powered by Google's Gemini Pro API. Features d... | TypeScript | 2 |
-| [nikolareljin/docforge](https://github.com/nikolareljin/docforge) | Auto-generate developer references and end-user guides from any codebase. Runs o... | Python | 1 |
 
 ## D
 
