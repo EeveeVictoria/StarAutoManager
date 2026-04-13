@@ -1,78 +1,19 @@
 # ⭐ My Starred Repositories
 
-> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 01:02 UTC
+> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-13 01:04 UTC
 
 **100** repos across **8** lists
 
 ## 📑 Table of Contents
 
+- [Shortcuts GitHub](#shortcuts-github) (114)
+- [Ir](#ir) (11)
 - [Notebooklm](#notebooklm) (17)
 - [D](#d) (30)
-- [Shortcuts GitHub](#shortcuts-github) (112)
 - [CSS](#css) (8)
 - [Browser extension](#browser-extension) (3)
-- [Ir](#ir) (10)
 - [New List: Remote Access & Development](#new-list:-remote-access-&-development) (1)
 - [✨ Inspiration](#✨-inspiration) (2)
-
-## Notebooklm
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,149 |
-| [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,647 |
-| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,385 |
-| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,498 |
-| [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 320 |
-| [vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp) | MCP Server for Bear note taking app available as Claude Desktop extension or sta... | TypeScript | 170 |
-| [Feng6611/Obsidian-open-in-Teminal](https://github.com/Feng6611/Obsidian-open-in-Teminal) | Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Ge... | TypeScript | 39 |
-| [photon-hq/notebooklm-kit](https://github.com/photon-hq/notebooklm-kit) | TypeScript SDK for programmatic access to Google NotebookLM | TypeScript | 34 |
-| [muharamdani/notebooklm-categorizer](https://github.com/muharamdani/notebooklm-categorizer) | NotebookLM Project Categorizer | JavaScript | 28 |
-| [MarcoDotIO/OpenClawKit](https://github.com/MarcoDotIO/OpenClawKit) | A Swift package SDK for running local OpenClaw-style AI agent workflows inside n... | Swift | 23 |
-| [sshnaidm/notebooklm](https://github.com/sshnaidm/notebooklm) | NotebookLM related tools and hacks | Shell | 19 |
-| [RichardLitt/a-bear](https://github.com/RichardLitt/a-bear) | You wouldn't import a bear | JavaScript | 11 |
-| [m4yk3ldev/notebooklm-mcp](https://github.com/m4yk3ldev/notebooklm-mcp) | MCP server for Google NotebookLM — 32 tools for notebooks, sources, research, an... | TypeScript | 7 |
-| [boredom1234/codebase-consolidator](https://github.com/boredom1234/codebase-consolidator) | A must-have tool for developers working with LLMs. It intelligently consolidates... | Python | 2 |
-| [Jasonnor/web-tldr](https://github.com/Jasonnor/web-tldr) | A Chrome extension that seamlessly integrates Google NotebookLM into your browsi... | JavaScript | 2 |
-| [karancodex/Codex-AI](https://github.com/karancodex/Codex-AI) | CodeX AI - A React Native chatbot powered by Google's Gemini Pro API. Features d... | TypeScript | 2 |
-| [nikolareljin/docforge](https://github.com/nikolareljin/docforge) | Auto-generate developer references and end-user guides from any codebase. Runs o... | Python | 1 |
-
-## D
-
-*D*
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [ish-app/ish](https://github.com/ish-app/ish) | Linux shell for iOS | C | 19,668 |
-| [altstoreio/AltStore](https://github.com/altstoreio/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | Swift | 13,750 |
-| [x2on/OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) | A script for compiling OpenSSL for iOS Devices (iPhone, iPad, Watch, iPod Touch,... | Shell | 2,531 |
-| [CLARATION/Impactor](https://github.com/CLARATION/Impactor) | Feature rich iOS/tvOS sideloading application written in Rust. | Rust | 1,860 |
-| [holzschu/ios_system](https://github.com/holzschu/ios_system) | Drop-in replacement for system() in iOS programs | C | 1,027 |
-| [1998code/SwiftGlass](https://github.com/1998code/SwiftGlass) | Glassy Everything, even Old Devices. [ AI Assistant available below ] | Swift | 382 |
-| [irccloud/ios](https://github.com/irccloud/ios) | IRCCloud iOS App | Objective-C | 293 |
-| [alunny/node-xcode](https://github.com/alunny/node-xcode) | tools and utilities for working with xcode/ios projects | JavaScript | 230 |
-| [objecthub/swift-markdownkit](https://github.com/objecthub/swift-markdownkit) | A framework for parsing and transforming text in Markdown format written in Swif... | Swift | 206 |
-| [autopkg/dataJAR-recipes](https://github.com/autopkg/dataJAR-recipes) | Elegant and powerful Apple services for business and education. | Python | 125 |
-| [alexander-lee/markdown-github-bear-toc](https://github.com/alexander-lee/markdown-github-bear-toc) | Autogenerated Table of Contents for Github Markdown or Bear Notes | Python | 95 |
-| [rztime/RZColorful](https://github.com/rztime/RZColorful) | iOS NSAttributedString 富文本的方法集合，以及简单优雅的使用其多种属性 | Objective-C | 78 |
-| [nab138/isideload](https://github.com/nab138/isideload) | A Rust library for sideloading iOS applications. | Rust | 63 |
-| [namiml/nami-apple](https://github.com/namiml/nami-apple) | A/B test native no-code paywalls, onboarding flows and more for Apple platforms | Ruby | 61 |
-| [ruivieira/grizzly](https://github.com/ruivieira/grizzly) | Extra utilities for Bear 🐻 | Go | 26 |
-| [kkebo/ConsolePad.swiftpm](https://github.com/kkebo/ConsolePad.swiftpm) | Console Pad is an iPadOS/iOS app. You can run JavaScript code through JavaScript... | Swift | 24 |
-| [CLARATION/Antrag](https://github.com/CLARATION/Antrag) | An app to list iOS/iPadOS app's, for stock devices. | Swift | 23 |
-| [dan-hart/Fragment](https://github.com/dan-hart/Fragment) | iOS & macOS Gist manager using Github | Swift | 13 |
-| [nordicsemi/IOS-Common-Libraries](https://github.com/nordicsemi/IOS-Common-Libraries) | Shared code & resources used by Nordic Apps for Apple platforms. | Swift | 6 |
-| [kirushavasilev/easymd_ios](https://github.com/kirushavasilev/easymd_ios) | Being authenticated with a github token, this application allows me to create an... | Swift | 4 |
-| [flschr/bearblog-plugins](https://github.com/flschr/bearblog-plugins) | A bunch of scripts and plugins for Bear Blog. | JavaScript | 4 |
-| [ecko5popasquqash/SwiftlyInterpreter](https://github.com/ecko5popasquqash/SwiftlyInterpreter) | 🛠️ Embed a Swift interpreter to run Swift code in iOS/macOS apps and on the web,... | Swift | 3 |
-| [ikyih/MobileGesalt26](https://github.com/ikyih/MobileGesalt26) | Dump Mobilegesalt on iPadOS 26. | Swift | 3 |
-| [chebupa/GetterSetterMacro](https://github.com/chebupa/GetterSetterMacro) | Getter & Setter macro for Swift. Inspired by project Lombok from Java. | Swift | 2 |
-| [OrangeAppleCreations/xcode-productivity-toolkit](https://github.com/OrangeAppleCreations/xcode-productivity-toolkit) | Essential Xcode shortcuts, build optimizations, and productivity tips for iOS de... | - | 1 |
-| [juyan/swiftui-markdown](https://github.com/juyan/swiftui-markdown) | An iOS Markdown rendering library fully written in SwiftUI | - | 1 |
-| [Garbee/font-configs](https://github.com/Garbee/font-configs) | Font configuration profiles for Apple devices | JavaScript | 1 |
-| [ammarsufyan/Sako-iPadOS](https://github.com/ammarsufyan/Sako-iPadOS) | Sako - iPadOS | Swift | 1 |
-| [Erikote04/App-Dev-Tutorials](https://github.com/Erikote04/App-Dev-Tutorials) | Learn the basics of Xcode, SwiftUI, and UIKit to create compelling apps. | Swift | 1 |
-| [johngarrett/unhand](https://github.com/johngarrett/unhand) | drag and drop helper for ios | Swift | 1 |
 
 ## Shortcuts GitHub
 
@@ -183,6 +124,7 @@
 | [durellwilson/appintents-pro](https://github.com/durellwilson/appintents-pro) | Production App Intents framework - Siri, Shortcuts, Spotlight integration for iO... | Swift | 2 |
 | [Ambi93/a-prompt-library-project](https://github.com/Ambi93/a-prompt-library-project) | A custom application that A prompt library using iOS Shortcuts, Blink iOS and Gi... | - | 2 |
 | [seanpm2001/UShortcut_Pro_Website](https://github.com/seanpm2001/UShortcut_Pro_Website) | ↪️🕳️↩️🌐️ The official source repository for the website of the UShortcut Pro, th... | CSS | 2 |
+| [jlmalone/redo-ios-package](https://github.com/jlmalone/redo-ios-package) | Local-first task management for iOS with Git-like event sourcing. Features widge... | Swift | 2 |
 | [ActuallyTaylor/jellycuts-com-archive](https://github.com/ActuallyTaylor/jellycuts-com-archive) |  | HTML | 1 |
 | [mateMascioni/shortcuts](https://github.com/mateMascioni/shortcuts) | Part of a demonstration on how to use iOS' Shortcuts app to start up VPNs on the... | TypeScript | 1 |
 | [bengio777/Forget-Me-Not__OpenQuestionLogger](https://github.com/bengio777/Forget-Me-Not__OpenQuestionLogger) | Multi-platform workflow for capturing class questions from desktop (Claude Cowor... | JavaScript | 1 |
@@ -190,6 +132,82 @@
 | [luisdavidgd/scriptable-hub](https://github.com/luisdavidgd/scriptable-hub) | A personal collection of scripts built for Scriptable (https://scriptable.app/) | JavaScript | 1 |
 | [Mooujj/iOS-markdown-table-formatter](https://github.com/Mooujj/iOS-markdown-table-formatter) | Markdown table formatter for use in iOS Shortcut app | TypeScript | 1 |
 | [mobigaurav/react-native-smart-actions](https://github.com/mobigaurav/react-native-smart-actions) | Cross-platform smart actions for React Native - iOS Spotlight, Siri Shortcuts, A... | TypeScript | 1 |
+| [vijayinyoutube/quick_action_app](https://github.com/vijayinyoutube/quick_action_app) | Quick Actions in Flutter App - Package Explore | C++ | 1 |
+
+## Ir
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 77,078 |
+| [lzm0x219/vscode-github-markdown](https://github.com/lzm0x219/vscode-github-markdown) | GitHub Markdown extension for VS Code. | SCSS | 58 |
+| [STRRL/shell-now](https://github.com/STRRL/shell-now) | Share your terminal in the browser in seconds. eg. Vibe Coding with Claude Code ... | Go | 47 |
+| [Stasshe/Pyxis-CodeCanvas](https://github.com/Stasshe/Pyxis-CodeCanvas) | Pyxis is an FULL client-side  IDE that runs in the browser(static site) with Nod... | TypeScript | 44 |
+| [planecore/VSCode_on_iPad](https://github.com/planecore/VSCode_on_iPad) | code-server client for iPad | Swift | 30 |
+| [brampersandon/expo-vscode-ios](https://github.com/brampersandon/expo-vscode-ios) | Run "VS Code" on iPad using coder.com and expo | TypeScript | 19 |
+| [Tomer20/vscode-tunnel-oracle](https://github.com/Tomer20/vscode-tunnel-oracle) | Required setup on Oracle Cloud Infrastructure for VSCode Tunnel. | HCL | 9 |
+| [oskrocha/ipad-dev-server](https://github.com/oskrocha/ipad-dev-server) | 🚀 Complete development server setup for iPad users. One-command deployment of VS... | Shell | 2 |
+| [Devang-09/codestream](https://github.com/Devang-09/codestream) | CodeStream Live: Real-time code syncing from VS Code to a mobile web viewer. Fea... | HTML | 2 |
+| [arko94/Test_ipad_connection](https://github.com/arko94/Test_ipad_connection) | Test connection to iPad through VS Code web | Python | 1 |
+| [13xNOOB/code-server-on-windows-wsl](https://github.com/13xNOOB/code-server-on-windows-wsl) | Personal documentation on setting up code-server using WSL for VS Code access on... | PowerShell | 1 |
+
+## Notebooklm
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The Web Data API for AI - Power AI agents with clean web data | TypeScript | 108,150 |
+| [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,647 |
+| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,385 |
+| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,498 |
+| [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 320 |
+| [vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp) | MCP Server for Bear note taking app available as Claude Desktop extension or sta... | TypeScript | 170 |
+| [Feng6611/Obsidian-open-in-Teminal](https://github.com/Feng6611/Obsidian-open-in-Teminal) | Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Ge... | TypeScript | 39 |
+| [photon-hq/notebooklm-kit](https://github.com/photon-hq/notebooklm-kit) | TypeScript SDK for programmatic access to Google NotebookLM | TypeScript | 34 |
+| [muharamdani/notebooklm-categorizer](https://github.com/muharamdani/notebooklm-categorizer) | NotebookLM Project Categorizer | JavaScript | 28 |
+| [MarcoDotIO/OpenClawKit](https://github.com/MarcoDotIO/OpenClawKit) | A Swift package SDK for running local OpenClaw-style AI agent workflows inside n... | Swift | 23 |
+| [sshnaidm/notebooklm](https://github.com/sshnaidm/notebooklm) | NotebookLM related tools and hacks | Shell | 19 |
+| [RichardLitt/a-bear](https://github.com/RichardLitt/a-bear) | You wouldn't import a bear | JavaScript | 11 |
+| [m4yk3ldev/notebooklm-mcp](https://github.com/m4yk3ldev/notebooklm-mcp) | MCP server for Google NotebookLM — 32 tools for notebooks, sources, research, an... | TypeScript | 7 |
+| [boredom1234/codebase-consolidator](https://github.com/boredom1234/codebase-consolidator) | A must-have tool for developers working with LLMs. It intelligently consolidates... | Python | 2 |
+| [Jasonnor/web-tldr](https://github.com/Jasonnor/web-tldr) | A Chrome extension that seamlessly integrates Google NotebookLM into your browsi... | JavaScript | 2 |
+| [karancodex/Codex-AI](https://github.com/karancodex/Codex-AI) | CodeX AI - A React Native chatbot powered by Google's Gemini Pro API. Features d... | TypeScript | 2 |
+| [nikolareljin/docforge](https://github.com/nikolareljin/docforge) | Auto-generate developer references and end-user guides from any codebase. Runs o... | Python | 1 |
+
+## D
+
+*D*
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [ish-app/ish](https://github.com/ish-app/ish) | Linux shell for iOS | C | 19,668 |
+| [altstoreio/AltStore](https://github.com/altstoreio/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | Swift | 13,750 |
+| [x2on/OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) | A script for compiling OpenSSL for iOS Devices (iPhone, iPad, Watch, iPod Touch,... | Shell | 2,531 |
+| [CLARATION/Impactor](https://github.com/CLARATION/Impactor) | Feature rich iOS/tvOS sideloading application written in Rust. | Rust | 1,860 |
+| [holzschu/ios_system](https://github.com/holzschu/ios_system) | Drop-in replacement for system() in iOS programs | C | 1,027 |
+| [1998code/SwiftGlass](https://github.com/1998code/SwiftGlass) | Glassy Everything, even Old Devices. [ AI Assistant available below ] | Swift | 382 |
+| [irccloud/ios](https://github.com/irccloud/ios) | IRCCloud iOS App | Objective-C | 293 |
+| [alunny/node-xcode](https://github.com/alunny/node-xcode) | tools and utilities for working with xcode/ios projects | JavaScript | 230 |
+| [objecthub/swift-markdownkit](https://github.com/objecthub/swift-markdownkit) | A framework for parsing and transforming text in Markdown format written in Swif... | Swift | 206 |
+| [autopkg/dataJAR-recipes](https://github.com/autopkg/dataJAR-recipes) | Elegant and powerful Apple services for business and education. | Python | 125 |
+| [alexander-lee/markdown-github-bear-toc](https://github.com/alexander-lee/markdown-github-bear-toc) | Autogenerated Table of Contents for Github Markdown or Bear Notes | Python | 95 |
+| [rztime/RZColorful](https://github.com/rztime/RZColorful) | iOS NSAttributedString 富文本的方法集合，以及简单优雅的使用其多种属性 | Objective-C | 78 |
+| [nab138/isideload](https://github.com/nab138/isideload) | A Rust library for sideloading iOS applications. | Rust | 63 |
+| [namiml/nami-apple](https://github.com/namiml/nami-apple) | A/B test native no-code paywalls, onboarding flows and more for Apple platforms | Ruby | 61 |
+| [ruivieira/grizzly](https://github.com/ruivieira/grizzly) | Extra utilities for Bear 🐻 | Go | 26 |
+| [kkebo/ConsolePad.swiftpm](https://github.com/kkebo/ConsolePad.swiftpm) | Console Pad is an iPadOS/iOS app. You can run JavaScript code through JavaScript... | Swift | 24 |
+| [CLARATION/Antrag](https://github.com/CLARATION/Antrag) | An app to list iOS/iPadOS app's, for stock devices. | Swift | 23 |
+| [dan-hart/Fragment](https://github.com/dan-hart/Fragment) | iOS & macOS Gist manager using Github | Swift | 13 |
+| [nordicsemi/IOS-Common-Libraries](https://github.com/nordicsemi/IOS-Common-Libraries) | Shared code & resources used by Nordic Apps for Apple platforms. | Swift | 6 |
+| [kirushavasilev/easymd_ios](https://github.com/kirushavasilev/easymd_ios) | Being authenticated with a github token, this application allows me to create an... | Swift | 4 |
+| [flschr/bearblog-plugins](https://github.com/flschr/bearblog-plugins) | A bunch of scripts and plugins for Bear Blog. | JavaScript | 4 |
+| [ecko5popasquqash/SwiftlyInterpreter](https://github.com/ecko5popasquqash/SwiftlyInterpreter) | 🛠️ Embed a Swift interpreter to run Swift code in iOS/macOS apps and on the web,... | Swift | 3 |
+| [ikyih/MobileGesalt26](https://github.com/ikyih/MobileGesalt26) | Dump Mobilegesalt on iPadOS 26. | Swift | 3 |
+| [chebupa/GetterSetterMacro](https://github.com/chebupa/GetterSetterMacro) | Getter & Setter macro for Swift. Inspired by project Lombok from Java. | Swift | 2 |
+| [OrangeAppleCreations/xcode-productivity-toolkit](https://github.com/OrangeAppleCreations/xcode-productivity-toolkit) | Essential Xcode shortcuts, build optimizations, and productivity tips for iOS de... | - | 1 |
+| [juyan/swiftui-markdown](https://github.com/juyan/swiftui-markdown) | An iOS Markdown rendering library fully written in SwiftUI | - | 1 |
+| [Garbee/font-configs](https://github.com/Garbee/font-configs) | Font configuration profiles for Apple devices | JavaScript | 1 |
+| [ammarsufyan/Sako-iPadOS](https://github.com/ammarsufyan/Sako-iPadOS) | Sako - iPadOS | Swift | 1 |
+| [Erikote04/App-Dev-Tutorials](https://github.com/Erikote04/App-Dev-Tutorials) | Learn the basics of Xcode, SwiftUI, and UIKit to create compelling apps. | Swift | 1 |
+| [johngarrett/unhand](https://github.com/johngarrett/unhand) | drag and drop helper for ios | Swift | 1 |
 
 ## CSS
 
@@ -211,21 +229,6 @@
 | [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) | Google Sheets API wrapper for Javascript / Typescript | TypeScript | 2,483 |
 | [dessant/web-archives](https://github.com/dessant/web-archives) | Browser extension for viewing archived and cached versions of web pages, availab... | JavaScript | 1,531 |
 | [godruoyi/readog](https://github.com/godruoyi/readog) | [🚧] Readog is a browser extension that can save your links to any platform. | TypeScript | 21 |
-
-## Ir
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 77,078 |
-| [lzm0x219/vscode-github-markdown](https://github.com/lzm0x219/vscode-github-markdown) | GitHub Markdown extension for VS Code. | SCSS | 58 |
-| [STRRL/shell-now](https://github.com/STRRL/shell-now) | Share your terminal in the browser in seconds. eg. Vibe Coding with Claude Code ... | Go | 47 |
-| [Stasshe/Pyxis-CodeCanvas](https://github.com/Stasshe/Pyxis-CodeCanvas) | Pyxis is an FULL client-side  IDE that runs in the browser(static site) with Nod... | TypeScript | 44 |
-| [planecore/VSCode_on_iPad](https://github.com/planecore/VSCode_on_iPad) | code-server client for iPad | Swift | 30 |
-| [brampersandon/expo-vscode-ios](https://github.com/brampersandon/expo-vscode-ios) | Run "VS Code" on iPad using coder.com and expo | TypeScript | 19 |
-| [Tomer20/vscode-tunnel-oracle](https://github.com/Tomer20/vscode-tunnel-oracle) | Required setup on Oracle Cloud Infrastructure for VSCode Tunnel. | HCL | 9 |
-| [oskrocha/ipad-dev-server](https://github.com/oskrocha/ipad-dev-server) | 🚀 Complete development server setup for iPad users. One-command deployment of VS... | Shell | 2 |
-| [arko94/Test_ipad_connection](https://github.com/arko94/Test_ipad_connection) | Test connection to iPad through VS Code web | Python | 1 |
-| [13xNOOB/code-server-on-windows-wsl](https://github.com/13xNOOB/code-server-on-windows-wsl) | Personal documentation on setting up code-server using WSL for VS Code access on... | PowerShell | 1 |
 
 ## New List: Remote Access & Development
 
