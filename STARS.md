@@ -1,17 +1,20 @@
 # ⭐ My Starred Repositories
 
-> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-20 10:27 UTC
+> Auto-organized by [StarAutoManager](https://github.com/your-user/StarAutoManager) | Last updated: 2026-04-27 10:52 UTC
 
-**100** repos across **10** lists
+**100** repos across **12** lists
 
 ## 📑 Table of Contents
 
-- [CSS](#css) (10)
-- [Browser extension](#browser-extension) (6)
-- [Notebooklm](#notebooklm) (45)
+- [Browser extension](#browser-extension) (12)
+- [Notebooklm](#notebooklm) (62)
+- [New List: Productivity Tools](#new-list:-productivity-tools) (9)
+- [New List: Media Players](#new-list:-media-players) (3)
+- [New List: Miscellaneous Scripts](#new-list:-miscellaneous-scripts) (1)
+- [New List: Documentation](#new-list:-documentation) (1)
+- [CSS](#css) (15)
 - [Ir](#ir) (15)
 - [New List: Fonts](#new-list:-fonts) (1)
-- [New List: Media Players](#new-list:-media-players) (2)
 - [New List: Web Development Tools](#new-list:-web-development-tools) (2)
 - [New List: Network Tools](#new-list:-network-tools) (1)
 - [✨ Inspiration](#✨-inspiration) (3)
@@ -19,88 +22,158 @@
 - [Shortcuts GitHub](#shortcuts-github) (114)
 - [New List: Remote Access & Development](#new-list:-remote-access-&-development) (1)
 
-## CSS
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [imageslr/mweb-themes](https://github.com/imageslr/mweb-themes) | 30+ 款 Markdown 预览主题，Typo.css、Vue、Bear、飞书云文档等风格，适用于 MWeb、Typora。 | JavaScript | 657 |
-| [tovifun/VivalArc](https://github.com/tovifun/VivalArc) | With just a few tweaks, you can give Vivaldi that cool Arc vibe | CSS | 638 |
-| [KaKi87/phi-for-vivaldi](https://github.com/KaKi87/phi-for-vivaldi) | φ The ultimate vertical experience mod for @Vivaldi, made with attention to deta... | CSS | 298 |
-| [imageslr/typora-theme-bear](https://github.com/imageslr/typora-theme-bear) | 一系列 Bear 风格的 typora 主题，共计 20 余款。A collection of typora themes, inspired by Bear. | - | 88 |
-| [shaggyfeng/obsidian-Pink-topaz-theme](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme) | Pink Topaz theme for Obsidian. | CSS | 30 |
-| [shaggyfeng/obsidian-Golden-Topaz-theme](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme) | Golden Topaz theme for Obsidian.  | CSS | 28 |
-| [yanglei1826877278/liquid-glass](https://github.com/yanglei1826877278/liquid-glass) | Generate stunning liquid glass effects like iOS 26. Customize Apple-style blur, ... | - | 19 |
-| [xarbit/cosmic-uniform-glass-theme](https://github.com/xarbit/cosmic-uniform-glass-theme) | A beautiful, modern dark theme for the COSMIC™ Desktop featuring a sleek glass-m... | - | 15 |
-| [rose-pine/bear-blog](https://github.com/rose-pine/bear-blog) | Soho vibes for ʕ•ᴥ•ʔ Bear | CSS | 11 |
-| [Amir-Ho3eiiiiiN/Wooden-Text-Typography](https://github.com/Amir-Ho3eiiiiiN/Wooden-Text-Typography) |  I designed a wooden text typography effect using CSS, giving the text a natural... | CSS | 1 |
-
 ## Browser extension
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [ovity/octotree](https://github.com/ovity/octotree) | GitHub on steroids | JavaScript | 23,193 |
+| [ovity/octotree](https://github.com/ovity/octotree) | GitHub on steroids | JavaScript | 23,190 |
+| [webclipper/web-clipper](https://github.com/webclipper/web-clipper) | For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere | TypeScript | 6,763 |
 | [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) | Google Sheets API wrapper for Javascript / Typescript | TypeScript | 2,482 |
-| [dessant/web-archives](https://github.com/dessant/web-archives) | Browser extension for viewing archived and cached versions of web pages, availab... | JavaScript | 1,536 |
-| [pnd280/complexity](https://github.com/pnd280/complexity) | ⚡ Supercharge your favourite AI Chat web apps. Currently supports Perplexity AI. | TypeScript | 1,215 |
+| [dessant/web-archives](https://github.com/dessant/web-archives) | Browser extension for viewing archived and cached versions of web pages, availab... | JavaScript | 1,539 |
+| [pnd280/complexity](https://github.com/pnd280/complexity) | ⚡ Supercharge your favourite AI Chat web apps. Currently supports Perplexity AI. | TypeScript | 1,216 |
+| [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) | Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full su... | JavaScript | 1,067 |
 | [godruoyi/readog](https://github.com/godruoyi/readog) | [🚧] Readog is a browser extension that can save your links to any platform. | TypeScript | 21 |
+| [joaolucaswork/raycast-windows-extension-template](https://github.com/joaolucaswork/raycast-windows-extension-template) | A comprehensive template for building Windows-compatible Raycast extensions with... | TypeScript | 21 |
 | [anesterdev/Freeplexity](https://github.com/anesterdev/Freeplexity) | Chrome Extension that removes auth shields after each message on perplexity.ai -... | CSS | 1 |
+| [niteshiftdev/niteshift-raycast](https://github.com/niteshiftdev/niteshift-raycast) | Raycast extension for Niteshift — run, monitor, and prompt background coding age... | TypeScript | 1 |
+| [istib/raycast-agent-skills](https://github.com/istib/raycast-agent-skills) | Raycast extension to search local agent skills and apply them to clipboard text. | TypeScript | 1 |
+| [RustingSword/raycast_white_noise](https://github.com/RustingSword/raycast_white_noise) | Raycast white noise extention base on https://github.com/remvze/moodist | TypeScript | 1 |
 
 ## Notebooklm
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | The repo is finally unlocked. enjoy the party! The fastest repo in history to su... | Rust | 186,509 |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni... | - | 135,593 |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The API to search, scrape, and interact with the web for AI | TypeScript | 110,969 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | A Claude Code plugin that automatically captures everything Claude does during y... | TypeScript | 63,784 |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Cl... | Python | 55,064 |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. ... | TypeScript | 43,878 |
-| [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支... | Python | 37,419 |
-| [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,642 |
-| [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama... | TypeScript | 22,781 |
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Cod... | TypeScript | 22,254 |
-| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | A list of free LLM inference resources accessible via API. | Python | 19,119 |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | Python | 17,367 |
-| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,513 |
-| [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) |  | TypeScript | 7,175 |
-| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | A collection of MCP clients. | - | 6,388 |
-| [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | ✨ Reverse-engineered Python API for Google Gemini web app | Python | 2,702 |
-| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,518 |
-| [jarmuine/claude-code](https://github.com/jarmuine/claude-code) | Fork of instructkr/claude-code | TypeScript | 2,045 |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use claude-code for free in the terminal, VSCode extension or via discord like o... | Python | 1,989 |
-| [MadAppGang/claudish](https://github.com/MadAppGang/claudish) | Claude Code. Any Model. The most powerful AI coding agent now speaks every langu... | TypeScript | 732 |
-| [inmve/free-ai-coding](https://github.com/inmve/free-ai-coding) | AI coding tools that give free Claude Opus/Sonnet, GPT-5, Gemini Pro, and other ... | JavaScript | 677 |
-| [Zen4-bit/Proxima](https://github.com/Zen4-bit/Proxima) | Multi-AI MCP Server - Connect ChatGPT, Claude, Gemini & Perplexity to your codin... | JavaScript | 585 |
-| [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) | ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the nex... | - | 550 |
-| [urzeye/ophel](https://github.com/urzeye/ophel) | Turn AI conversations into organized, reusable workflows — across major AI platf... | TypeScript | 521 |
-| [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 375 |
-| [ArtemXTech/claude-code-obsidian-starter](https://github.com/ArtemXTech/claude-code-obsidian-starter) | Free starter kit: Claude Code + Obsidian. Pre-configured vault with skills for p... | Typst | 181 |
-| [vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp) | MCP Server for Bear note taking app available as Claude Desktop extension or sta... | TypeScript | 175 |
-| [hassanmsthf11/unlimited-claude-AI](https://github.com/hassanmsthf11/unlimited-claude-AI) | Claude AI. No backend, no server costs, 100% free. | HTML | 133 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | The repo is finally unlocked. enjoy the party! The fastest repo in history to su... | Rust | 188,733 |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni... | - | 136,197 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔥 The API to search, scrape, and interact with the web for AI | TypeScript | 112,562 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | A Claude Code plugin that automatically captures everything Claude does during y... | TypeScript | 68,208 |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Cl... | Python | 56,592 |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | from vibe coding to agentic engineering - practice makes claude perfect | HTML | 48,490 |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o... | Python | 47,546 |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. ... | TypeScript | 44,551 |
+| [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支... | - | 37,590 |
+| [safishamsi/graphify](https://github.com/safishamsi/graphify) | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git... | Python | 36,014 |
+| [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | - | 29,631 |
+| [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama... | TypeScript | 24,609 |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Cod... | TypeScript | 22,658 |
+| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | A list of free LLM inference resources accessible via API. | Python | 19,417 |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | Python | 18,003 |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use claude-code for free in the terminal, VSCode extension or via discord like o... | Python | 15,079 |
+| [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Integrate Git version control with automatic commit-and-sync and other advanced ... | TypeScript | 10,630 |
+| [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) |  | TypeScript | 7,306 |
+| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | A collection of MCP clients. | - | 6,402 |
+| [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) | A collection of prompts, system prompts and LLM instructions | HTML | 5,000 |
+| [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) | ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prom... | HTML | 3,869 |
+| [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) | The missing DevTools for Claude Code — inspect session logs, tool calls, token u... | TypeScript | 3,211 |
+| [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | ✨ Reverse-engineered Python API for Google Gemini web app | Python | 2,749 |
+| [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) | Run Obsidian.md in a browser via a docker container. | Dockerfile | 2,527 |
+| [jarmuine/claude-code](https://github.com/jarmuine/claude-code) | Fork of instructkr/claude-code | TypeScript | 2,073 |
+| [MadAppGang/claudish](https://github.com/MadAppGang/claudish) | Claude Code. Any Model. The most powerful AI coding agent now speaks every langu... | TypeScript | 824 |
+| [inmve/free-ai-coding](https://github.com/inmve/free-ai-coding) | AI coding tools that give free Claude Opus/Sonnet, GPT-5, Gemini Pro, and other ... | JavaScript | 691 |
+| [Zen4-bit/Proxima](https://github.com/Zen4-bit/Proxima) | Multi-AI MCP Server - Connect ChatGPT, Claude, Gemini & Perplexity to your codin... | JavaScript | 681 |
+| [uphy/obsidian-reminder](https://github.com/uphy/obsidian-reminder) | Reminder plugin for Obsidian | TypeScript | 638 |
+| [pnp/copilot-prompts](https://github.com/pnp/copilot-prompts) | Examples of prompts for Microsoft Copilot | - | 569 |
+| [urzeye/ophel](https://github.com/urzeye/ophel) | Turn AI conversations into organized, reusable workflows — across major AI platf... | TypeScript | 566 |
+| [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) | ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the nex... | - | 553 |
+| [allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini) | An obsidian plugin to interact with Google Gemini | TypeScript | 401 |
+| [vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp) | MCP Server for Bear note taking app available as Claude Desktop extension or sta... | TypeScript | 185 |
+| [ArtemXTech/claude-code-obsidian-starter](https://github.com/ArtemXTech/claude-code-obsidian-starter) | Free starter kit: Claude Code + Obsidian. Pre-configured vault with skills for p... | Typst | 183 |
+| [ljavuras/obsidian-power-tools](https://github.com/ljavuras/obsidian-power-tools) | Obsidian custom scripts, templates and workflows developed for myself. Take what... | JavaScript | 181 |
+| [Rishurajgautam24/free-claude-code](https://github.com/Rishurajgautam24/free-claude-code) | Use claude-code for free in the terminal, VSCode extension or via discord like o... | Python | 166 |
+| [ykerus/obsidian-templates](https://github.com/ykerus/obsidian-templates) | Obsidian vault with task reminders, milestone and lesson trackers, automated too... | Shell | 152 |
+| [hassanmsthf11/unlimited-claude-AI](https://github.com/hassanmsthf11/unlimited-claude-AI) | Claude AI. No backend, no server costs, 100% free. | HTML | 146 |
 | [answerlink/MCP-Workspace-Server](https://github.com/answerlink/MCP-Workspace-Server) | 🚀 Beyond Filesystem - Complete AI Development Environment - One MCP Server provi... | Python | 128 |
-| [aofp/yume](https://github.com/aofp/yume) | Native desktop UI for Claude Code with orchestration, streaming, background agen... | HTML | 121 |
-| [Rishurajgautam24/free-claude-code](https://github.com/Rishurajgautam24/free-claude-code) | Use claude-code for free in the terminal, VSCode extension or via discord like o... | Python | 108 |
-| [mishamyrt/perplexity-web-api-mcp](https://github.com/mishamyrt/perplexity-web-api-mcp) | 🔍 Perplexity AI MCP without API key | Rust | 52 |
-| [Feng6611/Obsidian-open-in-Teminal](https://github.com/Feng6611/Obsidian-open-in-Teminal) | Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Ge... | TypeScript | 41 |
+| [aofp/yume](https://github.com/aofp/yume) | Native desktop UI for Claude Code with orchestration, streaming, background agen... | HTML | 126 |
+| [mishamyrt/perplexity-web-api-mcp](https://github.com/mishamyrt/perplexity-web-api-mcp) | 🔍 Perplexity AI MCP without API key | Rust | 54 |
+| [Feng6611/Obsidian-open-in-Teminal](https://github.com/Feng6611/Obsidian-open-in-Teminal) | Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Ge... | TypeScript | 43 |
 | [photon-hq/notebooklm-kit](https://github.com/photon-hq/notebooklm-kit) | TypeScript SDK for programmatic access to Google NotebookLM | TypeScript | 35 |
 | [muharamdani/notebooklm-categorizer](https://github.com/muharamdani/notebooklm-categorizer) | NotebookLM Project Categorizer | JavaScript | 28 |
+| [Andrewkeith83/free-claude-code](https://github.com/Andrewkeith83/free-claude-code) | 🚀 Use Claude Code CLI for free with NVIDIA's unlimited API. This proxy converts ... | Python | 24 |
 | [MarcoDotIO/OpenClawKit](https://github.com/MarcoDotIO/OpenClawKit) | A Swift package SDK for running local OpenClaw-style AI agent workflows inside n... | Swift | 22 |
-| [sshnaidm/notebooklm](https://github.com/sshnaidm/notebooklm) | NotebookLM related tools and hacks | Shell | 20 |
-| [m4yk3ldev/notebooklm-mcp](https://github.com/m4yk3ldev/notebooklm-mcp) | MCP server for Google NotebookLM — 32 tools for notebooks, sources, research, an... | TypeScript | 12 |
+| [sshnaidm/notebooklm](https://github.com/sshnaidm/notebooklm) | NotebookLM related tools and hacks | Shell | 21 |
+| [utajum/claude-usage](https://github.com/utajum/claude-usage) |  | Go | 14 |
+| [m4yk3ldev/notebooklm-mcp](https://github.com/m4yk3ldev/notebooklm-mcp) | MCP server for Google NotebookLM — 32 tools for notebooks, sources, research, an... | TypeScript | 13 |
 | [RichardLitt/a-bear](https://github.com/RichardLitt/a-bear) | You wouldn't import a bear | JavaScript | 11 |
 | [jvidaldamm3/awesome-claude-code-memory](https://github.com/jvidaldamm3/awesome-claude-code-memory) | A curated list of projects giving Claude Code persistent memory, with search and... | - | 6 |
 | [aashunaidu/claude-code-unlimited](https://github.com/aashunaidu/claude-code-unlimited) | Run Claude Code for free with unlimited requests — local proxy that rotates Open... | Python | 4 |
+| [prefereup/claude-code-link](https://github.com/prefereup/claude-code-link) | Claude Code leaked source version 2.1.88, now there is an AI Watermark Remover t... | Python | 4 |
+| [nyinyinyanlin/profile-vault-obsidian](https://github.com/nyinyinyanlin/profile-vault-obsidian) |  A modular Obsidian vault template for professional profile management, career t... | - | 3 |
 | [boredom1234/codebase-consolidator](https://github.com/boredom1234/codebase-consolidator) | A must-have tool for developers working with LLMs. It intelligently consolidates... | Python | 2 |
 | [Jasonnor/web-tldr](https://github.com/Jasonnor/web-tldr) | A Chrome extension that seamlessly integrates Google NotebookLM into your browsi... | JavaScript | 2 |
 | [karancodex/Codex-AI](https://github.com/karancodex/Codex-AI) | CodeX AI - A React Native chatbot powered by Google's Gemini Pro API. Features d... | TypeScript | 2 |
+| [g-h-0-S-t/comet-prompts](https://github.com/g-h-0-S-t/comet-prompts) | Prompts for Perplexity AI on Comet for browser automations. | - | 2 |
 | [nikolareljin/docforge](https://github.com/nikolareljin/docforge) | Auto-generate developer references and end-user guides from any codebase. Runs o... | Python | 1 |
+| [haotiencheng/obsidian-floating-notes](https://github.com/haotiencheng/obsidian-floating-notes) | Floating popout window for instant note capture in Obsidian, inspired by Raycast... | TypeScript | 1 |
+| [leolinehighinterest961/claude-better](https://github.com/leolinehighinterest961/claude-better) | Accelerate the Claude CLI with a compatibility-first reimplementation that cuts ... | - | 1 |
+
+## New List: Productivity Tools
+
+*Applications and tools focused on general productivity, note-taking, and task management.*
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [termit493rj/TickTick-Premium-2026](https://github.com/termit493rj/TickTick-Premium-2026) | TickTick Premium is a task manager with calendar integration, recurring tasks, u... | - | 43 |
+| [Ahmed-Sheref/TickTick_Extension](https://github.com/Ahmed-Sheref/TickTick_Extension) | TickTick Extension is an AI-powered Chrome extension and backend system that hel... | JavaScript | 2 |
+| [colin-gourlay/todoist-playbook](https://github.com/colin-gourlay/todoist-playbook) | A structured productivity playbook for Todoist - reusable templates, weekly revi... | - | 2 |
+| [wringrayescobar12tpk/Todoist-Pro-2026](https://github.com/wringrayescobar12tpk/Todoist-Pro-2026) | ⭐️ Todoist Pro 2026 \| Todoist Pro Key \| Todoist Pro Full Unlocked Version 2026 \|... | - | 2 |
+| [Kumarpankaj69/notezilla-unlocked-edition](https://github.com/Kumarpankaj69/notezilla-unlocked-edition) | Download NoteZilla Crack With License Key – Activate Full Version Instantly | - | 1 |
+| [LoneWolf36/ticktick-gemini-bot](https://github.com/LoneWolf36/ticktick-gemini-bot) |  | JavaScript | 1 |
+| [Specknz/todoist-subtask-sort](https://github.com/Specknz/todoist-subtask-sort) | Todosit integration to sort subtasks | Python | 1 |
+| [teskkkkk/cracked-todoist-for-chrome](https://github.com/teskkkkk/cracked-todoist-for-chrome) | 🌟 Enhance your productivity with Cracked Todoist for Chrome, offering a customiz... | - | 1 |
+| [maprilpedro/todoist-dashboard](https://github.com/maprilpedro/todoist-dashboard) |  | HTML | 1 |
+
+## New List: Media Players
+
+*Desktop applications and tools for playing and managing media, including music and video.*
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) | A Desktop App for YouTube Music | TypeScript | 5,903 |
+| [spicetify/marketplace](https://github.com/spicetify/marketplace) | Download extensions and themes directly from Spicetify | TypeScript | 1,479 |
+| [Venipa/ytmdesktop2](https://github.com/Venipa/ytmdesktop2) | Unofficial Youtube Music Desktop App, with Discord RPC & LastFM support. | TypeScript | 922 |
+
+## New List: Miscellaneous Scripts
+
+*A collection of miscellaneous scripts, userscripts, and userstyles that do not fit into more specific categories.*
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [PRO-2684/gadgets](https://github.com/PRO-2684/gadgets) | Some miscellaneous code snippets, including userscripts and userstyles etc. | JavaScript | 45 |
+
+## New List: Documentation
+
+*Repositories primarily containing documentation for software projects.*
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [Themj77/Gurgle_Keep_Docs](https://github.com/Themj77/Gurgle_Keep_Docs) | 🇬🏦️📖️ The official documentation source repository for Gurgle Keep, a parody of ... | Markdown | 1 |
+
+## CSS
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [imageslr/mweb-themes](https://github.com/imageslr/mweb-themes) | 30+ 款 Markdown 预览主题，Typo.css、Vue、Bear、飞书云文档等风格，适用于 MWeb、Typora。 | JavaScript | 657 |
+| [tovifun/VivalArc](https://github.com/tovifun/VivalArc) | With just a few tweaks, you can give Vivaldi that cool Arc vibe | CSS | 643 |
+| [CyanVoxel/Obsidian-Daily-Themes](https://github.com/CyanVoxel/Obsidian-Daily-Themes) | A Series of Daily Theme CSS Snippets for Obsidian. | CSS | 352 |
+| [KaKi87/phi-for-vivaldi](https://github.com/KaKi87/phi-for-vivaldi) | φ The ultimate vertical experience mod for @Vivaldi, made with attention to deta... | CSS | 312 |
+| [PaRr0tBoY/Awesome-Vivaldi](https://github.com/PaRr0tBoY/Awesome-Vivaldi) | Vivaldi themes and mods that I wrote or modified from the vivaldi community | JavaScript | 164 |
+| [imageslr/typora-theme-bear](https://github.com/imageslr/typora-theme-bear) | 一系列 Bear 风格的 typora 主题，共计 20 余款。A collection of typora themes, inspired by Bear. | - | 88 |
+| [ElsaTam/Obsidian-Stuff](https://github.com/ElsaTam/Obsidian-Stuff) |  | CSS | 75 |
+| [shaggyfeng/obsidian-Pink-topaz-theme](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme) | Pink Topaz theme for Obsidian. | CSS | 30 |
+| [shaggyfeng/obsidian-Golden-Topaz-theme](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme) | Golden Topaz theme for Obsidian.  | CSS | 28 |
+| [eb2ai/My-Checklists-and-Icons](https://github.com/eb2ai/My-Checklists-and-Icons) | Obsidian snippets to theme and manage Checklists & Icons | CSS | 23 |
+| [yanglei1826877278/liquid-glass](https://github.com/yanglei1826877278/liquid-glass) | Generate stunning liquid glass effects like iOS 26. Customize Apple-style blur, ... | - | 19 |
+| [xarbit/cosmic-uniform-glass-theme](https://github.com/xarbit/cosmic-uniform-glass-theme) | A beautiful, modern dark theme for the COSMIC™ Desktop featuring a sleek glass-m... | - | 15 |
+| [rose-pine/bear-blog](https://github.com/rose-pine/bear-blog) | Soho vibes for ʕ•ᴥ•ʔ Bear | CSS | 11 |
+| [0qln/obsidian-image-darkmodifier](https://github.com/0qln/obsidian-image-darkmodifier) | Turn your inline images into darkmode. | TypeScript | 5 |
+| [Amir-Ho3eiiiiiN/Wooden-Text-Typography](https://github.com/Amir-Ho3eiiiiiN/Wooden-Text-Typography) |  I designed a wooden text typography effect using CSS, giving the text a natural... | CSS | 1 |
 
 ## Ir
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 77,193 |
-| [Tyriar/vscode-theme-generator](https://github.com/Tyriar/vscode-theme-generator) | Easily generate themes for VS Code with only a few colors | TypeScript | 642 |
+| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 77,299 |
+| [Tyriar/vscode-theme-generator](https://github.com/Tyriar/vscode-theme-generator) | Easily generate themes for VS Code with only a few colors | TypeScript | 641 |
 | [RichardLuo0/vscode-frosted-glass-theme](https://github.com/RichardLuo0/vscode-frosted-glass-theme) | An enhancement to vscode appearance. Major feature includes acrylic effect, mica... | TypeScript | 66 |
 | [lzm0x219/vscode-github-markdown](https://github.com/lzm0x219/vscode-github-markdown) | GitHub Markdown extension for VS Code. | SCSS | 58 |
 | [STRRL/shell-now](https://github.com/STRRL/shell-now) | Share your terminal in the browser in seconds. eg. Vibe Coding with Claude Code ... | Go | 47 |
@@ -121,16 +194,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [tonsky/FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | Clojure | 81,459 |
-
-## New List: Media Players
-
-*Desktop applications and tools for playing and managing media, including music and video.*
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) | A Desktop App for YouTube Music | TypeScript | 5,864 |
-| [Venipa/ytmdesktop2](https://github.com/Venipa/ytmdesktop2) | Unofficial Youtube Music Desktop App, with Discord RPC & LastFM support. | TypeScript | 911 |
+| [tonsky/FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | Clojure | 81,500 |
 
 ## New List: Web Development Tools
 
@@ -138,7 +202,7 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) |  | TypeScript | 8,795 |
+| [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) |  | TypeScript | 8,848 |
 | [gkarthik99637/data-jar-web](https://github.com/gkarthik99637/data-jar-web) |  | TypeScript | 1 |
 
 ## New List: Network Tools
@@ -147,15 +211,15 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [clarketm/proxy-list](https://github.com/clarketm/proxy-list) | A list of free, public, forward proxy servers. UPDATED DAILY! | - | 2,380 |
+| [clarketm/proxy-list](https://github.com/clarketm/proxy-list) | A list of free, public, forward proxy servers. UPDATED DAILY! | - | 2,379 |
 
 ## ✨ Inspiration
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 425,193 |
-| [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | ✅  Curated list of resources for developers  | - | 21,672 |
-| [swyxio/spark-joy](https://github.com/swyxio/spark-joy) | ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product. | - | 9,744 |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 426,859 |
+| [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) | ✅  Curated list of resources for developers  | - | 21,705 |
+| [swyxio/spark-joy](https://github.com/swyxio/spark-joy) | ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product. | - | 9,745 |
 
 ## D
 
@@ -163,26 +227,26 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [ish-app/ish](https://github.com/ish-app/ish) | Linux shell for iOS | C | 19,712 |
-| [altstoreio/AltStore](https://github.com/altstoreio/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | Swift | 13,781 |
-| [x2on/OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) | A script for compiling OpenSSL for iOS Devices (iPhone, iPad, Watch, iPod Touch,... | Shell | 2,532 |
-| [CLARATION/Impactor](https://github.com/CLARATION/Impactor) | Feature rich iOS/tvOS sideloading application written in Rust. | Rust | 1,913 |
-| [holzschu/ios_system](https://github.com/holzschu/ios_system) | Drop-in replacement for system() in iOS programs | C | 1,031 |
-| [1998code/SwiftGlass](https://github.com/1998code/SwiftGlass) | Glassy Everything, even Old Devices. [ AI Assistant available below ] | Swift | 383 |
+| [ish-app/ish](https://github.com/ish-app/ish) | Linux shell for iOS | C | 19,740 |
+| [altstoreio/AltStore](https://github.com/altstoreio/AltStore) | AltStore is an alternative app store for non-jailbroken iOS devices. | Swift | 13,806 |
+| [x2on/OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) | A script for compiling OpenSSL for iOS Devices (iPhone, iPad, Watch, iPod Touch,... | Shell | 2,530 |
+| [CLARATION/Impactor](https://github.com/CLARATION/Impactor) | Feature rich iOS/tvOS sideloading application written in Rust. | Rust | 1,949 |
+| [holzschu/ios_system](https://github.com/holzschu/ios_system) | Drop-in replacement for system() in iOS programs | C | 1,033 |
+| [1998code/SwiftGlass](https://github.com/1998code/SwiftGlass) | Glassy Everything, even Old Devices. [ AI Assistant available below ] | Swift | 384 |
 | [irccloud/ios](https://github.com/irccloud/ios) | IRCCloud iOS App | Objective-C | 293 |
 | [alunny/node-xcode](https://github.com/alunny/node-xcode) | tools and utilities for working with xcode/ios projects | JavaScript | 230 |
-| [objecthub/swift-markdownkit](https://github.com/objecthub/swift-markdownkit) | A framework for parsing and transforming text in Markdown format written in Swif... | Swift | 206 |
+| [objecthub/swift-markdownkit](https://github.com/objecthub/swift-markdownkit) | A framework for parsing and transforming text in Markdown format written in Swif... | Swift | 207 |
 | [autopkg/dataJAR-recipes](https://github.com/autopkg/dataJAR-recipes) | Elegant and powerful Apple services for business and education. | Python | 125 |
 | [alexander-lee/markdown-github-bear-toc](https://github.com/alexander-lee/markdown-github-bear-toc) | Autogenerated Table of Contents for Github Markdown or Bear Notes | Python | 96 |
 | [rztime/RZColorful](https://github.com/rztime/RZColorful) | iOS NSAttributedString 富文本的方法集合，以及简单优雅的使用其多种属性 | Objective-C | 78 |
-| [nab138/isideload](https://github.com/nab138/isideload) | A Rust library for sideloading iOS applications. | Rust | 63 |
+| [nab138/isideload](https://github.com/nab138/isideload) | A Rust library for sideloading iOS applications. | Rust | 65 |
 | [namiml/nami-apple](https://github.com/namiml/nami-apple) | A/B test native no-code paywalls, onboarding flows and more for Apple platforms | Ruby | 61 |
+| [CLARATION/Antrag](https://github.com/CLARATION/Antrag) | An app to list iOS/iPadOS app's, for stock devices. | Swift | 29 |
 | [ruivieira/grizzly](https://github.com/ruivieira/grizzly) | Extra utilities for Bear 🐻 | Go | 26 |
-| [CLARATION/Antrag](https://github.com/CLARATION/Antrag) | An app to list iOS/iPadOS app's, for stock devices. | Swift | 25 |
 | [kkebo/ConsolePad.swiftpm](https://github.com/kkebo/ConsolePad.swiftpm) | Console Pad is an iPadOS/iOS app. You can run JavaScript code through JavaScript... | Swift | 24 |
 | [dan-hart/Fragment](https://github.com/dan-hart/Fragment) | iOS & macOS Gist manager using Github | Swift | 13 |
 | [nordicsemi/IOS-Common-Libraries](https://github.com/nordicsemi/IOS-Common-Libraries) | Shared code & resources used by Nordic Apps for Apple platforms. | Swift | 6 |
-| [flschr/bearblog-plugins](https://github.com/flschr/bearblog-plugins) | A bunch of scripts and plugins for Bear Blog. | JavaScript | 5 |
+| [flschr/bearblog-plugins](https://github.com/flschr/bearblog-plugins) | A bunch of scripts and plugins for Bear Blog. | JavaScript | 6 |
 | [kirushavasilev/easymd_ios](https://github.com/kirushavasilev/easymd_ios) | Being authenticated with a github token, this application allows me to create an... | Swift | 4 |
 | [ecko5popasquqash/SwiftlyInterpreter](https://github.com/ecko5popasquqash/SwiftlyInterpreter) | 🛠️ Embed a Swift interpreter to run Swift code in iOS/macOS apps and on the web,... | Swift | 3 |
 | [ikyih/MobileGesalt26](https://github.com/ikyih/MobileGesalt26) | Dump Mobilegesalt on iPadOS 26. | Swift | 3 |
@@ -199,43 +263,43 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs ... | TypeScript | 48,850 |
-| [utmapp/UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | Swift | 33,762 |
-| [wled/WLED](https://github.com/wled/WLED) | Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi! | C++ | 17,836 |
-| [git-up/GitUp](https://github.com/git-up/GitUp) | The Git interface you've been missing all your life has finally arrived. | Objective-C | 11,976 |
-| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | Swift | 7,818 |
-| [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) | ➷ A robust Javascript library for capturing keyboard input. It has no dependenci... | TypeScript | 7,125 |
-| [blinksh/blink](https://github.com/blinksh/blink) | Blink Mobile Shell for iOS (Mosh based) | Swift | 6,703 |
-| [gluonfield/enchanted](https://github.com/gluonfield/enchanted) | Enchanted is iOS and macOS app for chatting with private self hosted language mo... | Swift | 5,898 |
-| [CLARATION/Feather](https://github.com/CLARATION/Feather) | Free on-device iOS/iPadOS application manager/installer, using certificates part... | Swift | 3,964 |
-| [thebaselab/codeapp](https://github.com/thebaselab/codeapp) | Building a full-fledged code editor for iPad | Swift | 3,827 |
-| [github/codeql-action](https://github.com/github/codeql-action) | Actions for running CodeQL analysis | TypeScript | 1,525 |
-| [electrikmilk/cherri](https://github.com/electrikmilk/cherri) | Siri Shortcuts Programming Language 🍒 | Go | 1,388 |
-| [pnpm/action-setup](https://github.com/pnpm/action-setup) | Install pnpm package manager | TypeScript | 1,238 |
-| [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) | Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-s... | Swift | 806 |
+| [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs ... | TypeScript | 49,041 |
+| [utmapp/UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | Swift | 33,862 |
+| [wled/WLED](https://github.com/wled/WLED) | Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi! | C++ | 17,865 |
+| [git-up/GitUp](https://github.com/git-up/GitUp) | The Git interface you've been missing all your life has finally arrived. | Objective-C | 11,982 |
+| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | Swift | 7,889 |
+| [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) | ➷ A robust Javascript library for capturing keyboard input. It has no dependenci... | TypeScript | 7,115 |
+| [blinksh/blink](https://github.com/blinksh/blink) | Blink Mobile Shell for iOS (Mosh based) | Swift | 6,714 |
+| [gluonfield/enchanted](https://github.com/gluonfield/enchanted) | Enchanted is iOS and macOS app for chatting with private self hosted language mo... | Swift | 5,910 |
+| [CLARATION/Feather](https://github.com/CLARATION/Feather) | Free on-device iOS/iPadOS application manager/installer, using certificates part... | Swift | 4,030 |
+| [thebaselab/codeapp](https://github.com/thebaselab/codeapp) | Building a full-fledged code editor for iPad | Swift | 3,834 |
+| [github/codeql-action](https://github.com/github/codeql-action) | Actions for running CodeQL analysis | TypeScript | 1,527 |
+| [electrikmilk/cherri](https://github.com/electrikmilk/cherri) | Siri Shortcuts Programming Language 🍒 | Go | 1,454 |
+| [pnpm/action-setup](https://github.com/pnpm/action-setup) | Install pnpm package manager | TypeScript | 1,244 |
+| [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) | Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-s... | Swift | 822 |
 | [rrroyal/Harbour](https://github.com/rrroyal/Harbour) | Docker/Portainer management app for iOS, iPadOS and macOS. | Swift | 744 |
 | [jasonacox/Build-OpenSSL-cURL](https://github.com/jasonacox/Build-OpenSSL-cURL) | Scripts to build OpenSSL, HTTP/2 (nghttp2) and cURL (libcurl) for MacOS, iOS and... | C | 463 |
-| [FrizzleM/BreakFree](https://github.com/FrizzleM/BreakFree) | A free iOS shortcut that lets you sideload unlimited apps on your iOS and iPadOS... | Shell | 451 |
+| [FrizzleM/BreakFree](https://github.com/FrizzleM/BreakFree) | A free iOS shortcut that lets you sideload unlimited apps on your iOS and iPadOS... | Shell | 454 |
 | [edamov/pushok](https://github.com/edamov/pushok) | PHP client for Apple Push Notification Service (APNs) - Send push notifications ... | PHP | 410 |
-| [a2/swift-shortcuts](https://github.com/a2/swift-shortcuts) | An iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI. | Swift | 402 |
-| [PallavAg/Apple-Intelligence-Chat](https://github.com/PallavAg/Apple-Intelligence-Chat) | Chat with Apple Intelligence using the Foundation Models Framework | Swift | 365 |
+| [a2/swift-shortcuts](https://github.com/a2/swift-shortcuts) | An iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI. | Swift | 401 |
+| [PallavAg/Apple-Intelligence-Chat](https://github.com/PallavAg/Apple-Intelligence-Chat) | Chat with Apple Intelligence using the Foundation Models Framework | Swift | 369 |
 | [sbusso/Bear-Power-Pack](https://github.com/sbusso/Bear-Power-Pack) | A collection of workflows enhancing Bear writer app on iOS and Mac. | - | 361 |
 | [ricardopereira/QuickActions](https://github.com/ricardopereira/QuickActions) | Swift wrapper for iOS Home Screen Quick Actions (App Icon Shortcuts) | Swift | 256 |
 | [sebj/iOS-Shortcuts-Reference](https://github.com/sebj/iOS-Shortcuts-Reference) | Reference documentation for the iOS Shortcuts app file structure | - | 213 |
-| [scribe-org/Scribe-iOS](https://github.com/scribe-org/Scribe-iOS) | iOS app with keyboards for language learners | Swift | 167 |
+| [scribe-org/Scribe-iOS](https://github.com/scribe-org/Scribe-iOS) | iOS app with keyboards for language learners | Swift | 166 |
 | [mouselangelo/react-native-actions-shortcuts](https://github.com/mouselangelo/react-native-actions-shortcuts) | iOS Home screen Quick Actions & Android App Shortcuts for react-native | Kotlin | 142 |
 | [rtuszik/KoalaKeys](https://github.com/rtuszik/KoalaKeys) | Create and manage interactive keyboard shortcut cheatsheets. | CSS | 142 |
 | [useshortcut/shortcut-client-js](https://github.com/useshortcut/shortcut-client-js) | The official JavaScript client library for the Shortcut REST API. | TypeScript | 140 |
-| [eugenepyvovarov/CodeAgentsMobile](https://github.com/eugenepyvovarov/CodeAgentsMobile) | Mobile client for Claude Code.  | Swift | 129 |
+| [eugenepyvovarov/CodeAgentsMobile](https://github.com/eugenepyvovarov/CodeAgentsMobile) | Mobile client for Claude Code.  | Swift | 132 |
 | [chirag05k/Xcode-Shortcuts](https://github.com/chirag05k/Xcode-Shortcuts) | Welcome 😊, Visual Xcode shortcuts which will help to speed up your development 🚀... | - | 120 |
 | [OpenJelly/Open-Jellycuts](https://github.com/OpenJelly/Open-Jellycuts) | Pocket-Sized IDE | Swift | 115 |
 | [EachSheep/ShortcutsBench](https://github.com/EachSheep/ShortcutsBench) | ShortcutsBench: A Large-Scale Real-World Benchmark for API-Based Agents | Python | 112 |
-| [OpenJelly/Open-Jellycore](https://github.com/OpenJelly/Open-Jellycore) | A compiler for the Jelly language that allows you to create Apple Shortcuts usin... | Swift | 111 |
-| [shortcut-cli/shortcut-cli](https://github.com/shortcut-cli/shortcut-cli) | A community-driven command-line tool for viewing, creating, and updating Shortcu... | TypeScript | 103 |
-| [melon-lang/melon-lang](https://github.com/melon-lang/melon-lang) | A programming language designed for creating blazingly fast automations on Apple... | TypeScript | 95 |
+| [OpenJelly/Open-Jellycore](https://github.com/OpenJelly/Open-Jellycore) | A compiler for the Jelly language that allows you to create Apple Shortcuts usin... | Swift | 112 |
+| [shortcut-cli/shortcut-cli](https://github.com/shortcut-cli/shortcut-cli) | A community-driven command-line tool for viewing, creating, and updating Shortcu... | TypeScript | 104 |
+| [melon-lang/melon-lang](https://github.com/melon-lang/melon-lang) | A programming language designed for creating blazingly fast automations on Apple... | TypeScript | 96 |
 | [issmirnov/zap](https://github.com/issmirnov/zap) | Blazing fast web shortcuts. | Go | 79 |
-| [Moustachauve/WLED-iOS](https://github.com/Moustachauve/WLED-iOS) | Native iOS application for WLED | Swift | 74 |
-| [twilsonco/SiriShortcuts](https://github.com/twilsonco/SiriShortcuts) | A list of Siri Shortcuts (macOS/iOS/iPadOS) that I've made | JavaScript | 69 |
+| [Moustachauve/WLED-iOS](https://github.com/Moustachauve/WLED-iOS) | Native iOS application for WLED | Swift | 76 |
+| [twilsonco/SiriShortcuts](https://github.com/twilsonco/SiriShortcuts) | A list of Siri Shortcuts (macOS/iOS/iPadOS) that I've made | JavaScript | 70 |
 | [mralexhay/ShortcutsExample](https://github.com/mralexhay/ShortcutsExample) | An example of how to add new actions to Apple’s Shortcuts app | Swift | 64 |
 | [Processing-iOS/Processing-iOS](https://github.com/Processing-iOS/Processing-iOS) | Processing Programming Language for iOS. | Swift | 59 |
 | [vc64web/virtualc64web](https://github.com/vc64web/virtualc64web) | vc64web - Commodore C64  Emulator for iPad iPhone Android and the Web with CSDb ... | C++ | 59 |
@@ -249,7 +313,7 @@
 | [electrikmilk/preview-shortcut](https://github.com/electrikmilk/preview-shortcut) | Siri Shortcut preview for the Web 🖼️ | TypeScript | 38 |
 | [nturpin0/OutputKit](https://github.com/nturpin0/OutputKit) | For making nicer looking Shortcuts | CSS | 30 |
 | [bcongdon/google-sheets-shortcut](https://github.com/bcongdon/google-sheets-shortcut) | Append to a Google sheet directly from iOS shortcuts | JavaScript | 29 |
-| [gabrielerandazzo/iGemini](https://github.com/gabrielerandazzo/iGemini) | A powerful Apple Shortcut to seamlessly integrate Google Gemini across your enti... | - | 27 |
+| [gabrielerandazzo/iGemini](https://github.com/gabrielerandazzo/iGemini) | A powerful Apple Shortcut to seamlessly integrate Google Gemini across your enti... | - | 29 |
 | [davbeck/TULayoutAdditions](https://github.com/davbeck/TULayoutAdditions) | Shortcuts and helper methods for iOS Auto Layout | Objective-C | 26 |
 | [bradAGI/LLM-Shortcut](https://github.com/bradAGI/LLM-Shortcut) | iOS shortcut / Docker endpoint to access LLM models on iOS | Python | 25 |
 | [mstg/Keyshortcut-Pro](https://github.com/mstg/Keyshortcut-Pro) | Shortcuts made easy, iOS tweak. Pro version. | Logos | 21 |
@@ -258,8 +322,8 @@
 | [thechelsuk/app.pythonista](https://github.com/thechelsuk/app.pythonista) | Pythonista App - a repository of python scripts used in the iOS app Pythonista, ... | Python | 20 |
 | [pNre/shcuts.app](https://github.com/pNre/shcuts.app) | Web app to preview workflows created in Shortcuts on iOS | TypeScript | 17 |
 | [kaiser-jan/scriptable-untis](https://github.com/kaiser-jan/scriptable-untis) | 📚 Widgets for Untis using Scriptable for iOS. | TypeScript | 16 |
+| [U53RW4R3/ShortcutGen](https://github.com/U53RW4R3/ShortcutGen) | A shortcut generator that weaponizes as payloads. | Shell | 16 |
 | [jimmy-zhening-luo/scriptable](https://github.com/jimmy-zhening-luo/scriptable) | Write type-safe, concise, continuously-deployed Scriptable apps. Scriptable for ... | TypeScript | 15 |
-| [U53RW4R3/ShortcutGen](https://github.com/U53RW4R3/ShortcutGen) | A shortcut generator that weaponizes as payloads. | Shell | 15 |
 | [JGoyd/iOS18.6.2-Persistent-Automation-Exploit-in-Siri-Shortcuts-and-Apple-SWC](https://github.com/JGoyd/iOS18.6.2-Persistent-Automation-Exploit-in-Siri-Shortcuts-and-Apple-SWC) | This repo documents a vulnerability in Siri Shortcuts and Shared Web Credentials... | - | 14 |
 | [mt-empty/shortcut-c-client](https://github.com/mt-empty/shortcut-c-client) | A command line client for shortcut-pages, written in C | C | 13 |
 | [dhurlburtusa/shortcuts](https://github.com/dhurlburtusa/shortcuts) | A collection of shortcuts: cheat sheets, snippets, templates, etc. | JavaScript | 12 |
@@ -268,14 +332,14 @@
 | [sangafabrice/markdown-to-html-shortcut](https://github.com/sangafabrice/markdown-to-html-shortcut) | Windows 10/11 context menu shortcut for converting a Markdown file to an HTML fi... | JavaScript | 10 |
 | [schlagmichdoch/snapdrop-via-ios-shortcuts](https://github.com/schlagmichdoch/snapdrop-via-ios-shortcuts) |  | JavaScript | 9 |
 | [thejoaov/tray-link](https://github.com/thejoaov/tray-link) | Menu bar app and CLI to open, organize, and launch local projects faster. | TypeScript | 9 |
+| [rudrankriyam/App-Intents-Agent-Skill](https://github.com/rudrankriyam/App-Intents-Agent-Skill) | App Intents guidance for AI coding tools for Siri, Shortcuts, Spotlight, Apple I... | - | 9 |
 | [wajeht/bang](https://github.com/wajeht/bang) | your personal command center for blazingly fast web navigation | TypeScript | 9 |
 | [mthlpbs/ALT-Code-Gboard-Dictionary](https://github.com/mthlpbs/ALT-Code-Gboard-Dictionary) | Enhance your typing experience with Alt Codes for Gboard. This repo provides eas... | - | 8 |
 | [OpenJelly/tree-sitter-jelly](https://github.com/OpenJelly/tree-sitter-jelly) | Tree Sitter Grammar for the Jelly language | C | 8 |
 | [OwenPawl/ShortcutDocumentation](https://github.com/OwenPawl/ShortcutDocumentation) |  | Python | 8 |
 | [Kenna-Blackburn/ShortcutsToolsSQLite](https://github.com/Kenna-Blackburn/ShortcutsToolsSQLite) |  | Swift | 8 |
-| [rudrankriyam/App-Intents-Agent-Skill](https://github.com/rudrankriyam/App-Intents-Agent-Skill) | App Intents guidance for AI coding tools for Siri, Shortcuts, Spotlight, Apple I... | - | 8 |
-| [yahiaelbanna/gmsmpl](https://github.com/yahiaelbanna/gmsmpl) | JavaScript library which shortcuts the codes and save your coding time with prof... | JavaScript | 8 |
 | [alanscodelog/shortcuts-manager](https://github.com/alanscodelog/shortcuts-manager) | A  shortcut manager library for handling ALL the shortcut needs of an applicatio... | TypeScript | 8 |
+| [yahiaelbanna/gmsmpl](https://github.com/yahiaelbanna/gmsmpl) | JavaScript library which shortcuts the codes and save your coding time with prof... | JavaScript | 7 |
 | [wd006/shortquts](https://github.com/wd006/shortquts) | An open-source, community-driven platform for discovering, sharing, and managing... | PHP | 7 |
 | [chromewillow/jellycuts-mcp-server](https://github.com/chromewillow/jellycuts-mcp-server) | Model Context Protocol (MCP) server for JellyCuts iOS Shortcuts automation. Prov... | - | 6 |
 | [nuit-dhiver/folk-s-db](https://github.com/nuit-dhiver/folk-s-db) | A local Database on iOS devices for Shortcuts creators. | Swift | 6 |
@@ -320,17 +384,17 @@
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) | FreeRDP is a free remote desktop protocol library and clients | C | 13,068 |
+| [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) | FreeRDP is a free remote desktop protocol library and clients | C | 13,105 |
 
 ## 🌐 Language Distribution
 
-| TypeScript      | ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 32.0% (32) |
+| TypeScript      | ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 29.0% (29) |
+| Unknown         | ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 20.0% (20) |
 | Python          | ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 15.0% (15) |
-| Unknown         | ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 14.0% (14) |
-| JavaScript      | ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 14.0% (14) |
-| HTML            | ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 4.0% (4) |
-| CSS             | ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 4.0% (4) |
-| Shell           | █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 3.0% (3) |
+| JavaScript      | ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 13.0% (13) |
+| HTML            | ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 7.0% (7) |
+| CSS             | ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 6.0% (6) |
 | Rust            | █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 3.0% (3) |
-| Go              | █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 2.0% (2) |
-| C               | █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 2.0% (2) |
+| Go              | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 1.0% (1) |
+| Shell           | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 1.0% (1) |
+| Clojure         | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 1.0% (1) |
